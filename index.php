@@ -1,6 +1,6 @@
 <?php
 
-
+require_once "config.php";
 require_once "header.php";
 
 echo "
@@ -62,6 +62,42 @@ echo "
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-layers\"></i>
+                    <h2 class=\"subtitle\">COMPANY INCORPORATION</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-cards-playing-outline\"></i>
+                    <h2 class=\"subtitle\">Material Design</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-alarm-check\"></i>
+                    <h2 class=\"subtitle\">Fast and Clean</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-responsive\"></i>
+                    <h2 class=\"subtitle\">Fully Responsive</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+        </div>
+        
+        
+         <div class=\"row\">
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-layers\"></i>
                     <h2 class=\"subtitle\">Bootstrap 4</h2>
                     <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
                 </div>
@@ -91,8 +127,46 @@ echo "
                 </div>
             </div>
         </div>
+       
+       
+        <div class=\"row\">
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-layers\"></i>
+                    <h2 class=\"subtitle\">Bootstrap 4</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-cards-playing-outline\"></i>
+                    <h2 class=\"subtitle\">Material Design</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-alarm-check\"></i>
+                    <h2 class=\"subtitle\">Fast and Clean</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-responsive\"></i>
+                    <h2 class=\"subtitle\">Fully Responsive</h2>
+                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                </div>
+            </div>
+        </div> 
+        
     </div>
 </section>
+
 <!-- About Section End -->
 
 <!-- Welcome Section Start -->

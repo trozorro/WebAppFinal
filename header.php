@@ -101,7 +101,7 @@ echo "<!DOCTYPE html>
                 <!-- Search Box Start -->
                 <div class=\"search-icon\">
              <a href='/'><span class=\"open-search\">
-                <i class=\"mdi mdi-magnify btn btn-common\"></i>
+                <i class=\"mdi mdi-home-outline btn btn-common\"></i>
               </span></a>
                 </div>
                
