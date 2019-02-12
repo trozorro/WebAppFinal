@@ -15,16 +15,18 @@ echo "
         <div class=\"carousel-item active\">
             <img class=\"d-block w-100\" src=\"assets/images/slider/slider-bg1.jpg\" alt=\"First slide\">
             <div class=\"carousel-caption d-md-block\">
-                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Crafted with Bootstrap 4</h1>
-                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Material Design Meets With The Power of Bootstrap 4</h5>
+                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Company Registration</h1>
+                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Start your entrepreneurial journey with us.</h5>
+                <h6 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Get it done easily.Best free legal advice offered</h6>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Explore<div class=\"ripple-container\"></div></a>
             </div>
         </div>
         <div class=\"carousel-item\">
             <img class=\"d-block w-100\" src=\"assets/images/slider/slider-bg2.jpg\" alt=\"Second slide\">
             <div class=\"carousel-caption d-md-block\">
-                <h1 class=\"animated wow fadeInLeft hero-heading\" data-wow-delay=\".7s\">Refreshing Material Design</h1>
-                <h5 class=\"animated wow fadeInRight hero-sub-heading\" data-wow-delay=\".9s\">Extensively Customizable Tons of UI Elements</h5>
+                <h1 class=\"animated wow fadeInLeft hero-heading\" data-wow-delay=\".7s\">Trademark Registration</h1>
+                <h5 class=\"animated wow fadeInRight hero-sub-heading\" data-wow-delay=\".9s\">Gain exclusive rights to protect your brand from infringement</h5>
+                <h6 class=\"animated wow fadeInRight hero-sub-heading\" data-wow-delay=\".9s\">Get Trademark Registration done online</h6>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".6s\"><i class=\"material-icons mdi mdi-cart-outline\"></i> Purchase</a>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-border\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Learn More <div class=\"ripple-container\"></div></a>
             </div>
@@ -32,8 +34,9 @@ echo "
         <div class=\"carousel-item\">
             <img class=\"d-block w-100\" src=\"assets/images/slider/slider-bg3.jpg\" alt=\"Third slide\">
             <div class=\"carousel-caption d-md-block\">
-                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".6s\">UI Kit + Multi-purpose Template</h1>
-                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".8s\">Ready to Use for Business, Agency, Startup, Portfolio Sites and More...</h5>
+                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".6s\">Business Plan</h1>
+                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".8s\">Get the strategic business plan 
+crafted by experts</h5>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-arrow-collapse-down\"></i> Download Now</a>
             </div>
         </div>
@@ -62,7 +65,7 @@ echo "
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-layers\"></i>
-                    <h2 class=\"subtitle\">COMPANY INCORPORATION</h2>
+                    <h2 class=\"subtitle\">Company Incorporation</h2>
                     <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
                 </div>
             </div>
