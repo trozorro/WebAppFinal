@@ -15,30 +15,31 @@ echo "<!DOCTYPE html>
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">
 
     <title>".$WebName." - ".$Home_title."</title>
+    
+    <link rel=\"stylesheet\" href=\"/assets/css/materialdesignicons.min.css\">
+    
 
-    <link rel=\"stylesheet\" href=\"assets/css/bootstrap.min.css\">
+    <link rel=\"stylesheet\" href=\"/assets/css/bootstrap.min.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/materialdesignicons.min.css\">
+    <link rel=\"stylesheet\" href=\"/assets/css/material.min.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/material.min.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/ripples.min.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/ripples.min.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/owl.carousel.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/owl.carousel.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/magnific-popup.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/magnific-popup.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/slicknav.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/slicknav.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/animate.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/animate.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/style.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/style.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/responsive.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/responsive.css\">
+<link rel=\"stylesheet\" href=\"/assets/css/color-switcher.css\">
 
-    <link rel=\"stylesheet\" href=\"assets/css/color-switcher.css\">
-
-    <link rel=\"stylesheet\" type=\"text/css\" href=\"assets/css/colors/indigo.css\" media=\"screen\" />
+<link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/colors/indigo.css\" media=\"screen\" />
 
 </head>
 <body>

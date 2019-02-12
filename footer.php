@@ -90,8 +90,8 @@ echo "
         <div class=\"container\">
             <div class=\"row\">
                 <div class=\"col-md-12 text-center\">
-                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class=\"mdi mdi-heart\"></i> by <a href=\"#\">UIdeck</a></p>
-                </div>
+                    <p>&copy; 2019 ".$WebName.", All right reserved. Designed with <a href='#'> <i class=\"mdi mdi-heart\"></i></a> by <a href=\"#\">Technical Team</a></p>
+                   </div>
             </div>
         </div>
     </div>

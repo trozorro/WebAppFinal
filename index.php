@@ -7,6 +7,8 @@ echo "
 
 <div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
     <ol class=\"carousel-indicators\">
+        
+      
         <li data-target=\"#main-slide\" data-slide-to=\"0\" class=\"active\"></li>
         <li data-target=\"#main-slide\" data-slide-to=\"1\"></li>
         <li data-target=\"#main-slide\" data-slide-to=\"2\"></li>
@@ -17,7 +19,6 @@ echo "
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Company Registration</h1>
                 <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Start your entrepreneurial journey with us.</h5>
-                <h6 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Get it done easily.Best free legal advice offered</h6>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Explore<div class=\"ripple-container\"></div></a>
             </div>
         </div>
@@ -26,7 +27,6 @@ echo "
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInLeft hero-heading\" data-wow-delay=\".7s\">Trademark Registration</h1>
                 <h5 class=\"animated wow fadeInRight hero-sub-heading\" data-wow-delay=\".9s\">Gain exclusive rights to protect your brand from infringement</h5>
-                <h6 class=\"animated wow fadeInRight hero-sub-heading\" data-wow-delay=\".9s\">Get Trademark Registration done online</h6>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".6s\"><i class=\"material-icons mdi mdi-cart-outline\"></i> Purchase</a>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-border\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Learn More <div class=\"ripple-container\"></div></a>
             </div>
@@ -60,6 +60,14 @@ crafted by experts</h5>
 <!-- About Section -->
 <section class=\"Material-about-section section-padding\">
     <div class=\"container\">
+    
+    <div class=\"row\">
+            <!-- Section Titile -->
+            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
+                <h1 class=\"section-title\">Our Services</h1>
+            </div>
+        </div>
+    
         <div class=\"row\">
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
@@ -237,7 +245,7 @@ crafted by experts</h5>
         <div class=\"row\">
             <!-- Section Titile -->
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Why Choose</h1>
+                <h1 class=\"section-title\">Why Choose us</h1>
             </div>
         </div>
         <!-- Services Widget Section -->
@@ -377,76 +385,56 @@ crafted by experts</h5>
 
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"single-team-widget\">
-                    <img src=\"assets/images/team/team1.jpg\" class=\"img-fluid\" alt=\"\">
+                    <img src=\"#\" class=\"img-fluid\" alt=\"\">
                     <div class=\"team-member-info\">
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
                         <h2 class=\"subtitle\">Rob Percy</h2>
                         <p>Co-Founder</p>
-                        <div class=\"social-profiles\">
-                            <a href=\"#\"><i class=\"mdi mdi-twitter\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-dribbble\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-linkedin\"></i></a>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
 
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"single-team-widget\">
-                    <img src=\"assets/images/team/team2.jpg\" class=\"img-fluid\" alt=\"\">
+                    <img src=\"#\" class=\"img-fluid\" alt=\"\">
                     <div class=\"team-member-info\">
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
                         <h2 class=\"subtitle\">Jennifer L.</h2>
                         <p>Graphic Designer</p>
-                        <div class=\"social-profiles\">
-                            <a href=\"#\"><i class=\"mdi mdi-twitter\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-dribbble\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-linkedin\"></i></a>
-                        </div>
+                      
                     </div>
                 </div>
             </div>
 
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"single-team-widget\">
-                    <img src=\"assets/images/team/team3.jpg\" class=\"img-fluid\" alt=\"\">
+                    <img src=\"#\" class=\"img-fluid\" alt=\"\">
                     <div class=\"team-member-info\">
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
                         <h2 class=\"subtitle\">Tom Hanks.</h2>
                         <p>SEO Speacialist</p>
-                        <div class=\"social-profiles\">
-                            <a href=\"#\"><i class=\"mdi mdi-twitter\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-dribbble\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-linkedin\"></i></a>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
 
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".6s\">
                 <div class=\"single-team-widget\">
-                    <img src=\"assets/images/team/team4.jpg\" class=\"img-fluid\" alt=\"\">
+                    <img src=\"#\" class=\"img-fluid\" alt=\"\">
                     <div class=\"team-member-info\">
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
                         <h2 class=\"subtitle\">Emma Watson</h2>
                         <p>Head Of Ideas</p>
-                        <div class=\"social-profiles\">
-                            <a href=\"#\"><i class=\"mdi mdi-twitter\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-dribbble\"></i></a>
-                            <a href=\"#\"><i class=\"mdi mdi-linkedin\"></i></a>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
@@ -561,159 +549,8 @@ crafted by experts</h5>
 </div>
 <!-- End Client Section -->
 
-<!-- Our BLog Section -->
-<section class=\"Material-blog-section section-padding\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <!-- Section Titile -->
-            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">From The Blog</h1>
-            </div>
-        </div>
 
-        <div class=\"row\">
-            <!-- Single Article -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
-                <article class=\"single-blog-post\">
-                    <!-- Featured Image -->
-                    <div class=\"featured-image\">
-                        <a href=\"#\">
-                            <img src=\"assets/images/blog/featured1.jpg\" alt=\"\">
-                        </a>
-                    </div>
-                    <!-- Post Meta -->
-                    <div class=\"post-meta\">
-                        <!-- Title -->
-                        <a href=\"blog-single.html\"><h2 class=\"subtitle\">12+ Amazing Growth Hacking Tips and Tricks</h2></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
-                    </div>
-                    <div class=\"meta-tags\">
-                        <span class=\"comments\"><a href=\"#\"><i class=\"mdi mdi-comment-outline\"></i> 24 Comments</a></span>
-                        <!-- Read More -->
-                        <a class=\"btn btn-round btn-fab\" href=\"blog-single.html\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
-                    </div>
-                </article>
-            </div>
-            <!-- Single Article -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
-                <article class=\"single-blog-post\">
-                    <!-- Featured Image -->
-                    <div class=\"featured-image\">
-                        <a href=\"#\">
-                            <img src=\"assets/images/blog/featured2.jpg\" alt=\"\">
-                        </a>
-                    </div>
-                    <!-- Post Meta -->
-                    <div class=\"post-meta\">
-                        <!-- Title -->
-                        <a href=\"blog-single.html\"><h2 class=\"subtitle\">10 Tips to Validate Your Next Startup Idea</h2></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
-                    </div>
-                    <div class=\"meta-tags\">
-                        <span class=\"comments\"><a href=\"#\"><i class=\"mdi mdi-comment-outline\"></i> 24 Comments</a></span>
-                        <!-- Read More -->
-                        <a class=\"btn btn-round btn-fab\" href=\"blog-single.html\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
-                    </div>
-                </article>
-            </div>
-            <!-- Single Article -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".5s\">
-                <article class=\"single-blog-post\">
-                    <!-- Featured Image -->
-                    <div class=\"featured-image\">
-                        <a href=\"#\">
-                            <img src=\"assets/images/blog/featured3.jpg\" alt=\"\">
-                        </a>
-                    </div>
-                    <!-- Post Meta -->
-                    <div class=\"post-meta\">
-                        <!-- Title -->
-                        <a href=\"blog-single.html\"><h2 class=\"subtitle\">How to Create Successful Website for Your Agency</h2></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
-                    </div>
-                    <div class=\"meta-tags\">
-                        <span class=\"comments\"><a href=\"#\"><i class=\"mdi mdi-comment-outline\"></i> 24 Comments</a></span>
-                        <!-- Read More -->
-                        <a class=\"btn btn-round btn-fab\" href=\"blog-single.html\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
-                    </div>
-                </article>
-            </div>
-        </div>
-        <div class=\"row mt-5 wow animated fadeInUp\" data-wow-delay=\".6s\">
-            <!-- Button -->
-            <div class=\"col-md-12 text-center\">
-                <a href=\"blog.html\" class=\"animated4 btn btn-common\" data-ripple-color=\"#000\"><i class=\"material-icons mdi mdi-library-books\"></i> Explore More on Blog<div class=\"ripple-container\"></div></a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Our BLog Section End -->
 
-<!-- Contact Us Section -->
-<section class=\"Material-contact-section section-padding section-dark\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <!-- Section Titile -->
-            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Love to Hear From You</h1>
-            </div>
-        </div>
-        <div class=\"row\">
-            <!-- Section Titile -->
-            <div class=\"col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content.</p>
-
-                <div class=\"find-widget\">
-                    <a href=\"#\"><i class=\"material-icons mdi mdi-map-marker\"></i>4435 Berkshire Circle Knoxville</a>
-                </div>
-                <div class=\"find-widget\">
-                    <a href=\"#\"><i class=\"material-icons mdi mdi-phone\"></i> + 879-890-9767</a>
-                </div>
-                <div class=\"find-widget\">
-                    <a href=\"#\"><i class=\"material-icons mdi mdi-email-open mr-3\"></i> support@Material.com</a>
-                </div>
-                <div class=\"find-widget\">
-                    <a href=\"#\"><i class=\"material-icons mdi mdi-clock\"></i> Mon to Sat: 09:30 AM - 10.30 PM</a>
-                </div>
-            </div>
-            <!-- contact form -->
-            <div class=\"col-md-6 wow animated fadeInRight\" data-wow-delay=\".2s\">
-                <form class=\"shake\" role=\"form\" method=\"post\" id=\"contactForm\" name=\"contact-form\" data-toggle=\"validator\">
-                    <!-- Name -->
-                    <div class=\"form-group label-floating\">
-                        <label class=\"control-label\" for=\"name\">Name</label>
-                        <input class=\"form-control\" id=\"name\" type=\"text\" name=\"name\" required data-error=\"Please enter your name\">
-                        <div class=\"help-block with-errors\"></div>
-                    </div>
-                    <!-- email -->
-                    <div class=\"form-group label-floating\">
-                        <label class=\"control-label\" for=\"email\">Email</label>
-                        <input class=\"form-control\" id=\"email\" type=\"email\" name=\"email\" required data-error=\"Please enter your Email\">
-                        <div class=\"help-block with-errors\"></div>
-                    </div>
-                    <!-- Subject -->
-                    <div class=\"form-group label-floating\">
-                        <label class=\"control-label\">Subject</label>
-                        <input class=\"form-control\" id=\"msg_subject\" type=\"text\" name=\"subject\" required data-error=\"Please enter your message subject\">
-                        <div class=\"help-block with-errors\"></div>
-                    </div>
-                    <!-- Message -->
-                    <div class=\"form-group label-floating\">
-                        <label for=\"message\" class=\"control-label\">Message</label>
-                        <textarea class=\"form-control\" rows=\"3\" id=\"message\" name=\"message\" required data-error=\"Write your message\"></textarea>
-                        <div class=\"help-block with-errors\"></div>
-                    </div>
-                    <!-- Form Submit -->
-                    <div class=\"form-submit mt-5\">
-                        <button class=\"btn btn-common\" type=\"submit\" id=\"form-submit\"><i class=\"material-icons mdi mdi-message-outline\"></i> Send Message</button>
-                        <div id=\"msgSubmit\" class=\"h3 text-center hidden\"></div>
-                        <div class=\"clearfix\"></div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
 <!-- Contact Us Section End -->
 ";
 
