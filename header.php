@@ -14,7 +14,7 @@ echo "<!DOCTYPE html>
     <meta charset=\"utf-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">
 
-    <title>Trozorro - We Shape Ideas into Business</title>
+    <title>".$WebName." - ".$Home_title."</title>
 
     <link rel=\"stylesheet\" href=\"assets/css/bootstrap.min.css\">
 
@@ -100,20 +100,11 @@ echo "<!DOCTYPE html>
                 </ul>
                 <!-- Search Box Start -->
                 <div class=\"search-icon\">
-              <span class=\"open-search\">
+             <a href='/'><span class=\"open-search\">
                 <i class=\"mdi mdi-magnify btn btn-common\"></i>
-              </span>
+              </span></a>
                 </div>
-                <form role=\"search\" class=\"navbar-form\">
-                    <div class=\"container\">
-                        <div class=\"row\">
-                            <div class=\"form-group has-feedback\">
-                                <input type=\"text\" placeholder=\"Type and search ...\" class=\"form-control\">
-                                <div class=\"close\"><i class=\"mdi mdi-close\"></i></div>
-                            </div>
-                        </div>
-                    </div>
-                </form>
+               
                 <!-- Search Box End -->
             </div>
         </div>

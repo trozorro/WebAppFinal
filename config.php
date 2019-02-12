@@ -9,7 +9,8 @@
 
 //Contains all the values and names,
 
-$WebName="Trozorro";
+$WebName = "Trozorro";
+$Home_title = "We change ideas into business";
 $FbLink="#";
 $GitLink="#";
 $LinkedLink="#";
