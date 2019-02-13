@@ -73,8 +73,8 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Company Incorporation</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <h2 class=\"subtitle\">COMPANY INCORPORATION</h2>
+                    <p>Facilitate to form various type of business entity preferred by most start-up aspirants. Entity can be Private Limited Company, One Person Company, LLP, partnership firm.</p>
                 </div>
             </div>
             <!-- Single About -->
@@ -162,7 +162,7 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-android\"></i>
-                    <h2 class=\"subtitle\">Android Development</h2>
+                    <h2 class=\"subtitle\">ANDROID DEVELOPMENT</h2>
                     <p>Get cutting-edge android apps with best UI/UX implementations.</p>
                 </div>
             </div>
@@ -170,7 +170,7 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-web\"></i>
-                    <h2 class=\"subtitle\">Web Development</h2>
+                    <h2 class=\"subtitle\">WEB DEVELOPMENT</h2>
                     <p>Get professional websites built for you on the go.</p>
                 </div>
             </div>
@@ -178,7 +178,7 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-responsive\"></i>
-                    <h2 class=\"subtitle\">Web Hosting</h2>
+                    <h2 class=\"subtitle\">WEB HOSTING</h2>
                     <p>Get linux aid web hosting with high-speed dedicated servers.</p>
                 </div>
             </div>
