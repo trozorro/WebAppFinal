@@ -99,7 +99,7 @@ crafted by experts</h5>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-trademark\"></i>
+                    <i class=\"material-icons mdi mdi-check-circle\"></i>
                     <h2 class=\"subtitle\">TRADEMARK</h2>
                     <p>A trademark application is a mark to distinguish and protect your logo, brand, icon and product from misuse. You can protect your brand with the help of our professional..</p>
                 </div>
