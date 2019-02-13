@@ -72,10 +72,10 @@ echo "<!DOCTYPE html>
                         </a>
                         <div class=\"dropdown-menu\">
                             <a class=\"dropdown-item\" href=\"#\">Private Limited Company</a>
-                            <a class=\"dropdown-item\" href=\"about-us2.html\">Limited Liability Psartnership</a>
-                            <a class=\"dropdown-item\" href=\"team.html\">One Person company</a>
-                            <a class=\"dropdown-item\" href=\"services.html\">Partnership Firm</a>
-                            <a class=\"dropdown-item\" href=\"contact-us.html\">Sole Proprietorship</a>
+                            <a class=\"dropdown-item\" href=\"#\">Limited Liability Psartnership</a>
+                            <a class=\"dropdown-item\" href=\"#\">One Person company</a>
+                            <a class=\"dropdown-item\" href=\"#\">Partnership Firm</a>
+                            <a class=\"dropdown-item\" href=\"#\">Sole Proprietorship</a>
 
                         </div>
                     </li>
