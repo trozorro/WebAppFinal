@@ -27,8 +27,8 @@ echo "
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInLeft hero-heading\" data-wow-delay=\".7s\">Trademark Registration</h1>
                 <h5 class=\"animated wow fadeInRight hero-sub-heading\" data-wow-delay=\".9s\">Gain exclusive rights to protect your brand from infringement</h5>
-                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".6s\"><i class=\"material-icons mdi mdi-cart-outline\"></i> Purchase</a>
-                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-border\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Learn More <div class=\"ripple-container\"></div></a>
+                
+                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-border\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i>Explore<div class=\"ripple-container\"></div></a>
             </div>
         </div>
         <div class=\"carousel-item\">
@@ -37,7 +37,7 @@ echo "
                 <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".6s\">Business Plan</h1>
                 <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".8s\">Get the strategic business plan 
 crafted by experts</h5>
-                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-arrow-collapse-down\"></i> Download Now</a>
+                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i>Explore</a>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@ crafted by experts</h5>
     <div class=\"container\">
     
     <div class=\"row\">
-            <!-- Section Titile -->
+            <!-- Section Title -->
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
                 <h1 class=\"section-title\">Our Services</h1>
             </div>
@@ -72,7 +72,7 @@ crafted by experts</h5>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-layers\"></i>
+                    <i class=\"material-icons mdi mdi-pen\"></i>
                     <h2 class=\"subtitle\">Company Incorporation</h2>
                     <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
                 </div>
@@ -80,25 +80,28 @@ crafted by experts</h5>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-cards-playing-outline\"></i>
-                    <h2 class=\"subtitle\">Material Design</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-cash-multiple\"></i>
+                    <h2 class=\"subtitle\">GST</h2>
+                    <p>Our business advisor can assist you in GST registration procedure and get the fastest and most consistent mode of filing GST return online.
+</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-alarm-check\"></i>
-                    <h2 class=\"subtitle\">Fast and Clean</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-certificate\"></i>
+                    <h2 class=\"subtitle\">ISO CERTIFICATION</h2>
+                    <p>ISO certification process is the key to achieve the prime target of client satisfaction and overall excellence of your business as per the global quality standards.
+
+</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-responsive\"></i>
-                    <h2 class=\"subtitle\">Fully Responsive</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-trademark\"></i>
+                    <h2 class=\"subtitle\">TRADEMARK</h2>
+                    <p>A trademark application is a mark to distinguish and protect your logo, brand, icon and product from misuse. You can protect your brand with the help of our professional..</p>
                 </div>
             </div>
         </div>
@@ -108,33 +111,37 @@ crafted by experts</h5>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-layers\"></i>
-                    <h2 class=\"subtitle\">Bootstrap 4</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-account\"></i>
+                    <h2 class=\"subtitle\">PATENT</h2>
+                    <p>Patent is an intellectual property one can protect their original invention from infringement by applying patent. Our professional can help you in patent registration online.
+
+</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-cards-playing-outline\"></i>
-                    <h2 class=\"subtitle\">Material Design</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-copyright\"></i>
+                    <h2 class=\"subtitle\">COPYRIGHT</h2>
+                    <p>Copyright registration helps protect your original artistic, literary and creative works. Through our online process, you can protect your unique creation from plagiarism.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-alarm-check\"></i>
-                    <h2 class=\"subtitle\">Fast and Clean</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-arrow-all\"></i>
+                    <h2 class=\"subtitle\">IEC CODE</h2>
+                    <p>Import Export code license is the primary requirement for international trade. The unique IEC Code can help a business gain a prominent presence in the global market.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-responsive\"></i>
-                    <h2 class=\"subtitle\">Fully Responsive</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-newspaper\"></i>
+                    <h2 class=\"subtitle\">BUSINESS PLAN AND PROJECT REPORT</h2>
+                    <p>A presentable business plan helps you to demonstrate infront of others like banks, investors, other stake holders we can help you design your business plan.
+
+</p>
                 </div>
             </div>
         </div>
@@ -145,32 +152,34 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-layers\"></i>
-                    <h2 class=\"subtitle\">Bootstrap 4</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <h2 class=\"subtitle\">FSSAI REGISTRATION</h2>
+                    <p>Food security is the prime concern for government & consumers. With FSSAI registration, you can run your food business in compliance with standards of quality and health safety.
+
+</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-cards-playing-outline\"></i>
-                    <h2 class=\"subtitle\">Material Design</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-android\"></i>
+                    <h2 class=\"subtitle\">Android Development</h2>
+                    <p>Get cutting-edge android apps with best UI/UX implementations.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-alarm-check\"></i>
-                    <h2 class=\"subtitle\">Fast and Clean</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <i class=\"material-icons mdi mdi-web\"></i>
+                    <h2 class=\"subtitle\">Web Development</h2>
+                    <p>Get professional websites built for you on the go.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-responsive\"></i>
-                    <h2 class=\"subtitle\">Fully Responsive</h2>
-                    <p>Excepteur sint occaecat cupidatat non proidt, sunt in culpa qui.</p>
+                    <h2 class=\"subtitle\">Web Hosting</h2>
+                    <p>Get linux aid web hosting with high-speed dedicated servers.</p>
                 </div>
             </div>
         </div> 
@@ -192,32 +201,44 @@ crafted by experts</h5>
                             <a class=\"nav-link active\" data-toggle=\"tab\" href=\"#business\" role=\"tab\"><i class=\"mdi mdi-account-multiple-outline\"></i></br>Business</a>
                         </li>
                         <li class=\"nav-item\">
-                            <a class=\"nav-link\" data-toggle=\"tab\" href=\"#startup\" role=\"tab\"><i class=\"mdi mdi-flash-outline\"></i></br>Startup</a>
+                            <a class=\"nav-link\" data-toggle=\"tab\" href=\"#startup\" role=\"tab\"><i class=\"mdi mdi-web\"></i></br>Web</a>
                         </li>
                         <li class=\"nav-item\">
-                            <a class=\"nav-link\" data-toggle=\"tab\" href=\"#agency\" role=\"tab\"><i class=\"mdi mdi-all-inclusive\"></i></br>Agency</a>
+                            <a class=\"nav-link\" data-toggle=\"tab\" href=\"#agency\" role=\"tab\"><i class=\"mdi mdi-android\"></i></br>Android</a>
                         </li>
                         <li class=\"nav-item\">
-                            <a class=\"nav-link\" data-toggle=\"tab\" href=\"#saas\" role=\"tab\"><i class=\"mdi mdi-cloud-outline\"></i></br>SaaS</a>
+                            <a class=\"nav-link\" data-toggle=\"tab\" href=\"#saas\" role=\"tab\"><i class=\"mdi mdi-cloud-outline\"></i></br>Hosting</a>
                         </li>
                     </ul>
                     <!-- Tab panes -->
                     <div class=\"tab-content\">
                         <div class=\"tab-pane fade show active\" id=\"business\" role=\"tabpanel\">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, aut ut totam quam inventore suscipit ullam nostrum quisquam corrupti nesciunt voluptas necessitatibus, ab porro cupiditate optio mollitia, expedita, omnis? Quasi.</p>
+                            <p>Thinking of starting a business?Consult with us and get the best free legal advice.</p>
+                            <p>Get it done easily online with no hidden costs.</p>
+                            <p>Also avail new service at best price.Expert legal advice on all the procedures guaranteed.</p>
+                            <p>Showcase the potential of your business with trozorro strategic business plan.</p>
+                            <p>Tie-up with experienced professionals to build   
+   your roadmap to sucess.</p>
                         </div>
                         <div class=\"tab-pane fade\" id=\"startup\" role=\"tabpanel\" >
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, aut ut totam quam inventore suscipit ullam nostrum quisquam corrupti nesciunt voluptas necessitatibus, ab porro cupiditate optio mollitia, expedita, omnis? Quasi.</p>
+                            <p>Broaden your visibility on online platform with professional websites.</p>
+                            <p>Fully functional and responsive websites which is suitable for all types of businesses.</p>
+                            <p>We plan and design our web development packages as per the requirements of the clients which is ultimately beneficial for our clients.</p>
+                            <p>We integrate the most essential features within the website that takes a responsible part in achieving the targeted objectives of the enterprise.</p>
                         </div>
                         <div  class=\"tab-pane fade\" id=\"agency\" role=\"tabpanel\">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, aut ut totam quam inventore suscipit ullam nostrum quisquam corrupti nesciunt voluptas necessitatibus, ab porro cupiditate optio mollitia, expedita, omnis? Quasi.</p>
+                            <p>Mobile App Development Scales Up the Current Business Strategy Effectively!</p>
+                            <p>Latest updated application at an affordable price but can also focus on your core business.</p>
+                            <p>A smartphone app is an excellent way to perform almost all of your business functions. </p>
+                            <p>All work can be done through smartphones and are facilitated with such kinds of applications using which, one can save a lot of time.</p>
                         </div>
                         <div class=\"tab-pane fade\" id=\"saas\" role=\"tabpanel\">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, aut ut totam quam inventore suscipit ullam nostrum quisquam corrupti nesciunt voluptas necessitatibus, ab porro cupiditate optio mollitia, expedita, omnis? Quasi.</p>
+                            <p>Launching an attractive and scalable website quickly and affordably is important for business purpose.</p>
+                            <p>cPanel-Hosting account management has never been easier with cPanel® – the industry’s leading web hosting control panel.</p>
+                            <p>Premium servers-Exclusive hosting platform built to provide maximum performance.</p>
+                            <p>Multi-site hosting
+Host and manage multiple websites under single cPanel® account.</p>
+
                         </div>
                     </div>
                 </div>
@@ -257,8 +278,8 @@ crafted by experts</h5>
                         <i class=\"material-icons pulse-shrink mdi mdi-arrange-send-backward\"></i>
                     </div>
                     <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Refreshing Design</a></h2>
-                        <p>Excepteur sint occaecat cupi datat non proidt, sunt in culpa qui offi cia deserunt</p>
+                        <h2 class=\"subtitle\"><a href=\"#\">Startup Friendly</a></h2>
+                        <p>Be it a start-up or big company. We are here for the business registrations and climbing.</p>
                     </div>
                 </div>
             </div>
@@ -266,11 +287,11 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"media\">
                     <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-code-tags-check\"></i>
+                        <i class=\"material-icons pulse-shrink mdi mdi-clock\"></i>
                     </div>
                     <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Solid Bootstrap 4</a></h2>
-                        <p>Excepteur sint occaecat cupi datat non proidt, sunt in culpa qui offi cia deserunt</p>
+                        <h2 class=\"subtitle\"><a href=\"#\">Time Saving</a></h2>
+                        <p>Starting up a business is no more a big deal and time-consuming.Trozorro provides solutions quickly and hasslefree.</p>
                     </div>
                 </div>
             </div>
@@ -278,11 +299,11 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".5s\">
                 <div class=\"media\">
                     <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-grid\"></i>
+                        <i class=\"material-icons pulse-shrink mdi mdi-update\"></i>
                     </div>
                     <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">100+ Components</a></h2>
-                        <p>Excepteur sint occaecat cupi datat non proidt, sunt in culpa qui offi cia deserunt</p>
+                        <h2 class=\"subtitle\"><a href=\"#\">Continuous Support</a></h2>
+                        <p>Best in-class service and support round the clock.We are happy to hear you.</p>
                     </div>
                 </div>
             </div>
@@ -290,11 +311,11 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".6s\">
                 <div class=\"media\">
                     <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-update\"></i>
+                        <i class=\"material-icons pulse-shrink mdi mdi-cash\"></i>
                     </div>
                     <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Regular Updates</a></h2>
-                        <p>Excepteur sint occaecat cupi datat non proidt, sunt in culpa qui offi cia deserunt</p>
+                        <h2 class=\"subtitle\"><a href=\"#\">Cost effective solution</a></h2>
+                        <p>Trozorro provides brilliant tech solutions to the enterprises. As, We believe in prompt solution when it comes to client projects.</p>
                     </div>
                 </div>
             </div>
@@ -302,11 +323,11 @@ crafted by experts</h5>
             <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".7s\">
                 <div class=\"media\">
                     <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-speedometer\"></i>
+                        <i class=\"material-icons pulse-shrink mdi mdi-account-key\"></i>
                     </div>
                     <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Speed Optimized</a></h2>
-                        <p>Excepteur sint occaecat cupi datat non proidt, sunt in culpa qui offi cia deserunt</p>
+                        <h2 class=\"subtitle\"><a href=\"#\">Client Data Confidentiality</a></h2>
+                        <p>Privacy of your data is our foremost responsibilty.We keep our client data secure and confidential.</p>
                     </div>
                 </div>
             </div>
@@ -317,8 +338,8 @@ crafted by experts</h5>
                         <i class=\"material-icons pulse-shrink mdi mdi-shape-plus\"></i>
                     </div>
                     <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Fully Customizable</a></h2>
-                        <p>Excepteur sint occaecat cupi datat non proidt, sunt in culpa qui offi cia deserunt</p>
+                        <h2 class=\"subtitle\"><a href=\"#\">Tech solutions</a></h2>
+                        <p>Trozorro also provides a numerous stack solutions such as web and android app development along with web hosting. </p>
                     </div>
                 </div>
             </div>
