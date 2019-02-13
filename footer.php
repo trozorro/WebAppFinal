@@ -25,7 +25,7 @@ echo "
                         <a href=\"#\"><i class=\"mdi mdi-twitter\"></i></a>
                     </li>
                     <li>
-                        <a href=\"#\"><i class=\"mdi mdi-dribbble\"></i></a>
+                        <a href=\"#\"><i class=\"mdi mdi-instagram\"></i></a>
                     </li>
                     <li>
                         <a href=\"#\"><i class=\"mdi mdi-github-circle\"></i></a>
