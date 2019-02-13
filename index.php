@@ -447,7 +447,7 @@ Host and manage multiple websites under single cPanel® account.</p>
         <div class=\"row\">
 
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Meet The Team</h1>
+                <h1 class=\"section-title\">Our Best Offers</h1>
             </div>
         </div>
         <div class=\"row\">
@@ -459,8 +459,8 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
-                        <h2 class=\"subtitle\">Rob Percy</h2>
-                        <p>Co-Founder</p>
+                        <h2 class=\"subtitle\">Start-up Business</h2>
+                        <p>Avail the best offers.</p>
                         
                     </div>
                 </div>
@@ -473,8 +473,8 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
-                        <h2 class=\"subtitle\">Jennifer L.</h2>
-                        <p>Graphic Designer</p>
+                        <h2 class=\"subtitle\">Android Development</h2>
+                        <p>Apps at a suitable price.</p>
                       
                     </div>
                 </div>
@@ -487,8 +487,8 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
-                        <h2 class=\"subtitle\">Tom Hanks.</h2>
-                        <p>SEO Speacialist</p>
+                        <h2 class=\"subtitle\">Web Development</h2>
+                        <p>Best pricing websites</p>
                        
                     </div>
                 </div>
@@ -501,8 +501,8 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"know-more\">
                             <a class=\"btn btn-round btn-fab btn-xs\" href=\"javascript:void(0)\"><i class=\"material-icons mdi mdi-arrow-right\"></i><div class=\"ripple-container\"></div></a>
                         </div>
-                        <h2 class=\"subtitle\">Emma Watson</h2>
-                        <p>Head Of Ideas</p>
+                        <h2 class=\"subtitle\">Web Hosting</h2>
+                        <p>Go online at cheaper rate.</p>
                        
                     </div>
                 </div>
@@ -528,7 +528,7 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"datils\">
                             <h5>Adam Schwartz</h5>
                             <span>Software Articulate, Google</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
                         </div>
                         <div class=\"img\">
                             <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author1.jpg\" alt=\"\"></a>
@@ -540,7 +540,7 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"datils\">
                             <h5>Clark Brown</h5>
                             <span>Brand Managerr</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
                         </div>
                         <div class=\"img\">
                             <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author2.jpg\" alt=\"\"></a>
@@ -552,14 +552,39 @@ Host and manage multiple websites under single cPanel® account.</p>
                         <div class=\"datils\">
                             <h5>Ana Blunt</h5>
                             <span>Creative Director</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
                         </div>
                         <div class=\"img\">
                             <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author3.jpg\" alt=\"\"></a>
                         </div>
                     </div>
                 </div>
+                 <div class=\"item\">
+                    <div class=\"testimonial-item\">
+                        <div class=\"datils\">
+                            <h5>Adam Schwartz</h5>
+                            <span>Software Articulate, Google</span>
+                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
+                        </div>
+                        <div class=\"img\">
+                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author1.jpg\" alt=\"\"></a>
+                        </div>
+                    </div>
+                </div>
+                 <div class=\"item\">
+                    <div class=\"testimonial-item\">
+                        <div class=\"datils\">
+                            <h5>Adam Schwartz</h5>
+                            <span>Software Articulate, Google</span>
+                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
+                        </div>
+                        <div class=\"img\">
+                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author1.jpg\" alt=\"\"></a>
+                        </div>
+                    </div>
+                </div>
             </div>
+            
         </div>
     </div>
 </div>
