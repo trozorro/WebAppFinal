@@ -6,13 +6,61 @@ require_once "header.php";
 echo "
 
 <div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
-    <ol class=\"carousel-indicators\">
+    <!-- <ol class=\"carousel-indicators\">
         
       
-        <li data-target=\"#main-slide\" data-slide-to=\"0\" class=\"active\"></li>
-        <li data-target=\"#main-slide\" data-slide-to=\"1\"></li>
-        <li data-target=\"#main-slide\" data-slide-to=\"2\"></li>
+          <li data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:25%;height:25px;  class=\"active\"  \"></li>
+        <li data-target=\"#main-slide\" data-slide-to=\"1\"  style=\"width:25%;height:25px;></li>
+        <li data-target=\"#main-slide\" data-slide-to=\"2\"  style=\"width:25%;height:25px;></li>
+        
+         <li data-target=\"#main-slide\" data-slide-to=\"2\"  style=\"width:25%;height:25px;></li>
+          <li data-target=\"#main-slide\" data-slide-to=\"2\" ></li>
+           <li data-target=\"#main-slide\" data-slide-to=\"2\"  ></li>
+       
     </ol>
+    -->
+    <table style\" width:100%; \" border=\"10 px\" cellspacing=\"10 px\">
+    <tr class=\"carousel-indicators\">
+    <td  data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:30%;height:70px; background-color:#e0ecff; margin:0 5px 0 0; border-radius:5px;  padding:5px 20px 10px 20px; \" class=\"active\"><span style=\" font-size:20px; \">Start Your Business</span><br>Lowest Price in India
+
+
+</td>
+    <td  data-target=\"#main-slide\" data-slide-to=\"1\"  style=\"width:30%;height:70px;  background-color:#e0ecff;  margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px;  \"><span style=\" font-size:20px; \">Register Your Brand</span><br>Guard against infringement
+
+
+</td>
+    <td  data-target=\"#main-slide\" data-slide-to=\"2\" style=\"width:30%;height:70px;   background-color:#e0ecff; margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px; \"><span style=\" font-size:20px; \">Business Plan Pitch</span><br>Impress your investors
+
+
+</td>
+   
+    </tr>
+    
+    
+    
+     <tr class=\"carousel-indicators\">
+    <td  padding = '50px' data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:30%;height:5px; background-color:red; margin:0 5px 0 0; border-radius:5px; \"></td>
+    <td style=\"width:30%;height:5x;  background-color:orange;  margin:0 5px 0 0;  border-radius:5px;  \"></td>
+    <td   style=\"width:30%;height:5px;   background-color:blue; margin:0 5px 0 0;  border-radius:5px;  \"></td>
+   
+    </tr>
+    
+    
+    
+    
+    
+    
+    
+    </table>
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <div class=\"carousel-inner\">
         <div class=\"carousel-item active\">
             <img class=\"d-block w-100\" src=\"assets/images/slider/slider-bg1.jpg\" alt=\"First slide\">
