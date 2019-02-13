@@ -16,7 +16,7 @@ echo "
             <!--First column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 footer-contact-widget\">
                 <h3 class=\"footer-title\">TROZORRO</h3>
-                <p>By continuing past this page, you agree to our<a href='#'> Terms of Service</a>,<a href='#'> Cookie Policy</a>,<a href='#'> Privacy Policy</a>,<a href='#'> Refund Policy</a> and Content Policies. © 2019 -TROZORRO Private Limited. All rights reserved.</p>
+                <p>By continuing past this page, you agree to our<a href='#'> Terms of Service</a>,<a href='#'> Cookie Policy</a>,<a href='#'> Privacy Policy</a>,<a href='#'> Refund Policy</a> and Content Policies.</p>
                 <ul>
                     <li>
                         <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
