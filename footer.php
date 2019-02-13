@@ -15,8 +15,8 @@ echo "
         <div class=\"row\">
             <!--First column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 footer-contact-widget\">
-                <h3 class=\"footer-title\">About</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita ipsum soluta voluptatem sed architecto.</p>
+                <h3 class=\"footer-title\">TROZORRO</h3>
+                <p>By continuing past this page, you agree to our<a href='#'> Terms of Service</a>,<a href='#'> Cookie Policy</a>,<a href='#'> Privacy Policy</a>,<a href='#'> Refund Policy</a> and Content Policies. © 2019 -TROZORRO Private Limited. All rights reserved.</p>
                 <ul>
                     <li>
                         <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
@@ -39,47 +39,40 @@ echo "
 
             <!--Second column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 recent-widget\">
-                <h3 class=\"footer-title\">Recent Posts</h3>
-                <p><a href=\"#\" class=\"dark-grey-text\">Growth Hacking 101</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">30 UX Tips and Tricks</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">How to Scale Your Business</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Getting Started with Sketch</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\"></a>10 Tips to Validate Your Idea</p>
-                <p><a href=\"#\" class=\"dark-grey-text\">SEO Guideline for Designers</a></p>
+                <h3 class=\"footer-title\">Start A Business</h3>
+                <p><a href=\"#\" class=\"dark-grey-text\">Private Limited Company</a></p>
+                
+                <p><a href=\"#\" class=\"dark-grey-text\">Limited Liability Partership</a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">One Person Company</a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Partnership Firm</a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Proprietorship Firm</a></p>
             </div>
             <!--/.Second column-->
-
-            <!--Third column-->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 link-widget\">
-                <h3 class=\"footer-title\">Quick link</h3>
-                <ul>
-                    <li><a href=\"about.html\">About Us</a></li>
-                    <li><a href=\"#\">Brands</a></li>
-                    <li><a href=\"portfolio-index.html\">Portfolio</a></li>
-                    <li><a href=\"#\">Support</a></li>
-                    <li><a href=\"contact.html\">Contact Us</a></li>
-                    <li><a href=\"#\">Site Map</a></li>
-                    <li><a href=\"#\">Privacy Policy</a></li>
-                    <li><a href=\"#\">Terms of Service</a></li>
-                </ul>
+            
+            
+             <!--third column-->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 recent-widget\">
+                <h3 class=\"footer-title\">Trademark & Copyright</h3>
+                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Registration</a></p>
+               
+                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Objection</a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Assignment </a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Renewal</a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Copyright registration</a></p>
             </div>
-            <!--/.Third column-->
+            <!--/.third column-->
 
-            <!--Fourth column-->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 footer-contact\">
-                <h3 class=\"footer-title\">Our Gallery</h3>
-                <div class=\"widget widget-gallery\">
-                    <ul class=\"magnific-gallery\">
-                        <li><a href=\"#\"><img src=\"assets/images/gallery/thum1.jpg\" alt=\"instagram image\"></a></li>
-                        <li><a href=\"#\"><img src=\"assets/images/gallery/thum2.jpg\" alt=\"instagram image\"></a></li>
-                        <li><a href=\"#\"><img src=\"assets/images/gallery/thum3.jpg\" alt=\"instagram image\"></a></li>
-                        <li><a href=\"#\"><img src=\"assets/images/gallery/thum4.jpg\" alt=\"instagram image\"></a></li>
-                        <li><a href=\"#\"><img src=\"assets/images/gallery/thum5.jpg\" alt=\"instagram image\"></a></li>
-                        <li><a href=\"#\"><img src=\"assets/images/gallery/thum6.jpg\" alt=\"instagram image\"></a></li>
-                    </ul>
-                </div>
+            <!--fourth-->
+             <div class=\"col-md-6 col-lg-3 col-xl-3 recent-widget\">
+                <h3 class=\"footer-title\">Technical Services</h3>
+                <p><a href=\"#\" class=\"dark-grey-text\">Web Development</a></p>
+               
+                <p><a href=\"#\" class=\"dark-grey-text\">Android App Development</a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Web Hosting </a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Desktop App Development </a></p>
+                <p><a href=\"#\" class=\"dark-grey-text\">Cryptography </a></p>
             </div>
-            <!--/.Fourth column-->
+            <!--/.fourth-->
 
         </div>
     </div>

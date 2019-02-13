@@ -21,7 +21,7 @@ echo "
     -->
     <table style\" width:100%; \" border=\"10 px\" cellspacing=\"10 px\">
     <tr class=\"carousel-indicators\">
-    <td  data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:30%;height:70px; background-color:#e0ecff; margin:0 5px 0 0; border-radius:5px;  padding:5px 20px 10px 20px; \" class=\"active\"><span style=\" font-size:20px; \">Start Your Business</span><br>Lowest Price in India
+    <td  data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:30%;height:70px; background-color:#e0ecff; margin:0 5px 0 0; border-radius:5px;  padding:5px 20px 10px 20px ; \" class=\"active\"><span style=\" font-size:20px; \">Start Your Business</span><br>Lowest Price in India
 
 
 </td>
