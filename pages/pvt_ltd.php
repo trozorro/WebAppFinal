@@ -8,7 +8,7 @@
 require_once "../config.php";
 require_once "../header.php";
 
-echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
+echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
    
     <div class=\"carousel-inner\">
         <div class=\"carousel-item active\">
@@ -75,7 +75,7 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
     <div class=\"row\">
             <!-- Section Title -->
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Highlights</h1>
+                <h1 class=\"section-title\">HIGHLIGHTS</h1>
             </div>
         </div>
     
