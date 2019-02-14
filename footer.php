@@ -8,6 +8,78 @@
 
 
 echo "
+
+
+ <section class=\"Material-service-section section-padding\">
+        <div class=\"container\">
+            <div class=\"row\">
+                
+                
+                
+                        <div class=\"col-md-6 col-lg-4 col-xl-3 single-service-widget wow animated fadeInUp\" data-wow-delay=\".2s\">
+                    
+                    <div class=\"media\">    
+                        <div class=\"media-left\">
+                            <i class=\"material-icons pulse-shrink mdi mdi-thumb-up\"></i>
+                        </div>
+                        
+                        <h2 class=\"subtitle\">ASSURED CUSTOMER SATISFACTION</h2>
+                        </div>
+                        
+                        
+                    </div>
+             
+                
+                
+                 
+                        <div class=\"col-md-6 col-lg-4 col-xl-3 single-service-widget wow animated fadeInUp\" data-wow-delay=\".2s\">
+                    
+                    <div class=\"media\">    
+                        <div class=\"media-left\">
+                            <i class=\"material-icons pulse-shrink mdi mdi-lock\"></i>
+                        </div>
+                        
+                        <h2 class=\"subtitle\">CLIENT DATA CONFIDENTIALITY</h2>
+                        </div>
+                        
+                        
+                    </div>
+                
+                   <div class=\"col-md-6 col-lg-4 col-xl-3 single-service-widget wow animated fadeInUp\" data-wow-delay=\".2s\">
+                    
+                    <div class=\"media\">    
+                        <div class=\"media-left\">
+                            <i class=\"material-icons pulse-shrink mdi mdi-square-inc-cash\"></i>
+                        </div>
+                        
+                        <h2 class=\"subtitle\">NO HIDDEN FEES OR CHARGES</h2>
+                        </div>
+                        
+                        
+                    </div>
+                    
+                       <div class=\"col-md-6 col-lg-4 col-xl-3 single-service-widget wow animated fadeInUp\" data-wow-delay=\".2s\">
+                    
+                    <div class=\"media\">    
+                        <div class=\"media-left\">
+                            <i class=\"material-icons pulse-shrink mdi mdi-laptop-mac\"></i>
+                        </div>
+                        
+                        <h2 class=\"subtitle\">SECURE ONLINE PAYMENT</h2>
+                        </div>
+                        
+                        
+                    </div>
+                
+                
+                  
+            </div>
+        </div>
+    </section>
+    
+
+
+
 <!--Footer-->
 <footer class=\"page-footer center-on-small-only  pt-0 footer-widget-container\">
     <!--Footer Links-->
