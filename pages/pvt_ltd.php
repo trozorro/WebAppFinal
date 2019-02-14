@@ -16,6 +16,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Private Limited Company</h1>
                 <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">We help you to register your private limited company within 14 working days while you sitting at home. .</h5>
+                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Explore<div class=\"ripple-container\"></div></a>
             </div>
         </div>
         
@@ -75,7 +76,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
     <div class=\"row\">
             <!-- Section Title -->
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">HIGHLIGHTS</h1>
+                <h1 class=\"section-title\">Highlights</h1>
             </div>
         </div>
     
@@ -140,10 +141,11 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
         </section>
         
  <section class=\"steps-container\">
-<div class=\"container\" id=\"process\"></div>
-<div class=\"row\"></div>
-<h1 style=\"text-align:center\"><strong>OUR PROCESS</strong></h1>
+<div class=\"container\" id=\"process\">
+<div class=\"row\">
+<h1 class=\"section-title\">Our Process</h1>
 
+</div>
 <div class=\"col-sm-4\">
 <div class=\"six-steps\"><img src=\"/assets/images/ourprocess/1.png\" />
 <p>Upload the Required Documents &amp; Information to our web portal</p>
@@ -163,7 +165,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 </div>
 
 <div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"https://www.e-startupindia.com/images/4.png\" />
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/4.png\" />
 <p>Check for Company&rsquo;s Name availability, apply for Name Approval.</p>
 </div>
 </div>
@@ -181,13 +183,15 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 </div>
 </div>
 </div>
+</div>
 </section>
-
-
-
-
-
 ";
+
+
+
+
+
+
 
 
 
