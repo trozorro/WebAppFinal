@@ -26,7 +26,7 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"row\">
 
 <div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
-<h1 class=\"section-title\">Company Registration Process</h1>
+<h1 class=\"section-title\">COMPANY REGISTRATION PROCESS</h1>
 </div>
 </div>
 <div class=\"row mt-2 wow animated fadeInUp\" data-wow-delay=\".4s\">
@@ -203,52 +203,8 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 
+require_once "../faq_pages/pvt_ltd_faq.php";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+require_once "../page_elements/contact_form_design.php";
 
 require_once "../footer.php";
