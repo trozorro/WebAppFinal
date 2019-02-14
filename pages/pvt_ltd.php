@@ -69,7 +69,119 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 </div>
 </section>
 <!-- Highlight section -->
+<section class=\"Material-about-section section-padding\">
+    <div class=\"container\">
+    
+    <div class=\"row\">
+            <!-- Section Title -->
+            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
+                <h1 class=\"section-title\">Highlights</h1>
+            </div>
+        </div>
+    
+        <div class=\"row\">
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Limited Liability</h2>
+                    <p>Shareholder enjoys limited liability to the extent of capital invested. Shareholder's personal assets protected in the event of the company's insolvency.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Separation of Mangement & Shareholders</h2>
+                    <p>Management & shareholders can be separated. A shareholder can invest the fund in fruitful business without managing & Management can operate their business without frequent interruption of investors.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Separate Legal Entity</h2>
+                    <p>A company is a Separate legal entity from its Owners and Management in the eyes of law.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+           
+        </div>
+        
+        
+         <div class=\"row\">
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Easy Equity Funding</h2>
+                    <p>Startups businesses can easily raise funds from investors on an equity basis.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Taxation</h2>
+                    <p>Every Pvt Ltd Company enjoys for recently announced start-up tax exemption, if meets eligibility criteria.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Perpetual Succession</h2>
+                    <p>A business of the Company will not affect if there is any change in the ownership of the company.</p>
+                </div>
+            </div>
+            <!-- Single About -->
+           
+        </div>
+        </section>
+        
+ <section class=\"steps-container\">
+<div class=\"container\" id=\"process\"></div>
+<div class=\"row\"></div>
+<h1 style=\"text-align:center\"><strong>OUR PROCESS</strong></h1>
 
+<div class=\"col-sm-4\">
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/1.png\" />
+<p>Upload the Required Documents &amp; Information to our web portal</p>
+</div>
+</div>
+
+<div class=\"col-sm-4\">
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/2.png\" />
+<p>Choose Package and Pay online with different payments modes available</p>
+</div>
+</div>
+
+<div class=\"col-sm-4\">
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/3.png\" />
+<p>We will apply for Digital Signature and Director Identification Number of proposed directors</p>
+</div>
+</div>
+
+<div class=\"col-sm-4\">
+<div class=\"six-steps\"><img src=\"https://www.e-startupindia.com/images/4.png\" />
+<p>Check for Company&rsquo;s Name availability, apply for Name Approval.</p>
+</div>
+</div>
+
+<div class=\"col-sm-4\">
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/5.png\" />
+<p>Prepare MOA, AOA and other necessary incorporation documents.</p>
+</div>
+</div>
+
+<div class=\"col-sm-4\">
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/6.png\" />
+<p>File incorporation documents &amp; obtain Certificate of Incorporation, PAN &amp; TAN.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
 
 
 
