@@ -5,8 +5,8 @@
  * Date: 14-02-2019
  * Time: 19:30
  */
-require_once "config.php";
-require_once "header.php";
+require_once "../config.php";
+require_once "../header.php";
 
 echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
    
@@ -69,24 +69,6 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 </div>
 </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -157,4 +139,4 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 
-require_once "footer.php";
+require_once "../footer.php";
