@@ -116,7 +116,7 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
                     <p>A trademark application is a mark to distinguish and protect your logo, brand, icon and product from misuse. You can protect your brand with the help of our professional..</p>
                 </div>
             </div>
-        </div>
+        
         
 
 
