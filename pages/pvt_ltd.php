@@ -76,7 +76,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
     <div class=\"row\">
             <!-- Section Title -->
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Highlights</h1>
+                <h1 class=\"section-title\">HIGHLIGHTS</h1>
             </div>
         </div>
     
@@ -264,6 +264,8 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 require_once "../faq_pages/pvt_ltd_faq.php";
+
+require_once "../page_elements/compare_design.php";
 
 require_once "../page_elements/contact_form_design.php";
 
