@@ -12,11 +12,13 @@ echo "
 
 
 
-<section class=\"Material-service-section section-padding\">
+ <section  class=\"Material-about-section section-padding\">
 <div class=\"container\">
-
-<div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
+<div class=\"row\">
+ <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
 <h1 class=\"section-title\">FREQUENTLY ASKED QUESTIONS</h1>
+</div>
+
 </div>";
 
 $handle = fopen("../faq_pages/faq_data/pvt_ltd.faq", "r");

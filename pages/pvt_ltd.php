@@ -16,8 +16,8 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Private Limited Company</h1>
                 <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">We help you to register your private limited company within 14 working days while you sitting at home. .</h5>
-                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Explore<div class=\"ripple-container\"></div></a>
-            </div>
+                <!--Btns here-->
+                </div>
         </div>
         
         
@@ -140,51 +140,114 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
         </div>
         </section>
         
- <section class=\"steps-container\">
-<div class=\"container\" id=\"process\">
+ <section  class=\"Material-about-section section-padding\">
+<div class=\"container\">
 <div class=\"row\">
+ <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
 <h1 class=\"section-title\">Our Process</h1>
+</div>
 
 </div>
-<div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/1.png\" />
+
+<div class=\"row\">
+
+<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+
+<div class=\"about-single\"><img src=\"/assets/images/ourprocess/1.png\" />
 <p>Upload the Required Documents &amp; Information to our web portal</p>
 </div>
 </div>
 
-<div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/2.png\" />
+<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+<div class=\"about-single\"><img src=\"/assets/images/ourprocess/2.png\" />
 <p>Choose Package and Pay online with different payments modes available</p>
 </div>
 </div>
 
-<div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/3.png\" />
+<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+<div class=\"about-single\"><img src=\"/assets/images/ourprocess/3.png\" />
 <p>We will apply for Digital Signature and Director Identification Number of proposed directors</p>
 </div>
 </div>
 
-<div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/4.png\" />
+<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+<div class=\"about-single\"><img src=\"/assets/images/ourprocess/4.png\" />
 <p>Check for Company&rsquo;s Name availability, apply for Name Approval.</p>
 </div>
 </div>
 
-<div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/5.png\" />
+<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+<div class=\"about-single\"><img src=\"/assets/images/ourprocess/5.png\" />
 <p>Prepare MOA, AOA and other necessary incorporation documents.</p>
 </div>
 </div>
 
-<div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/6.png\" />
+<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+<div class=\"about-single\"><img src=\"/assets/images/ourprocess/6.png\" />
 <p>File incorporation documents &amp; obtain Certificate of Incorporation, PAN &amp; TAN.</p>
 </div>
 </div>
+
+
+</div>
+
 </div>
 </div>
 </div>
 </section>
+
+
+
+<section class=\"Material-about-section section-padding\">
+    <div class=\"container\">
+    
+    <div class=\"row\">
+            <!-- Section Title -->
+            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
+                <h1 class=\"section-title\">DOCUMENTS REQUIRED</h1>
+            </div>
+        </div>
+    
+        <div class=\"row\">
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Identity Proof</h2>
+                    <p>Aadhar Card Driving License Election Id Card Passport</p>
+                </div>
+            </div>
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-pen\"></i>
+                    <h2 class=\"subtitle\">Identity Proof</h2>
+                    <p>Aadhar Card Driving License Election Id Card Passport</p>
+                </div>
+            </div>";
+            echo "<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-file-document\"></i>
+                    <h2 class=\"subtitle\">Identity Proof</h2>
+                    <p>Aadhar Card Driving License Election Id Card Passport</p>
+                </div>
+            </div>";
+            
+          echo "  <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-account\"></i>
+                    <h2 class=\"subtitle\">Identity Proof</h2>
+                    <p>Aadhar Card Driving License Election Id Card Passport</p>
+                </div>
+            </div>
+            
+            
+            
+            
+           </div> 
+           
+           </div>
+           </section>
+
 ";
 
 

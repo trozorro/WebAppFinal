@@ -185,7 +185,7 @@ echo "
 <script src=\"/assets/js/bootstrap.min.js\"></script>
 
 <script src=\"/assets/js/jquery.mixitup.min.js\"></script>
-<script src=\"assets/js/jquery.inview.js\"></script>
+<script src=\"/assets/js/jquery.inview.js\"></script>
 <script src=\"/assets/js/jquery.counterup.min.js\"></script>
 <script src=\"/assets/js/scroll-top.js\"></script>
 <script src=\"/assets/js/smoothscroll.js\"></script>
