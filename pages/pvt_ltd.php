@@ -16,7 +16,6 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Private Limited Company</h1>
                 <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">We help you to register your private limited company within 14 working days while you sitting at home. .</h5>
-                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i> Explore<div class=\"ripple-container\"></div></a>
             </div>
         </div>
         
@@ -74,15 +73,7 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 
-
-
 ";
-
-
-
-
-
-
 
 
 
