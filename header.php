@@ -71,7 +71,7 @@ echo "<!DOCTYPE html>
                             Start a business
                         </a>
                         <div class=\"dropdown-menu\">
-                            <a class=\"dropdown-item\" href=\"#\">Private Limited Company</a>
+                            <a class=\"dropdown-item\" href=\"pvt_ltd.php\">Private Limited Company</a>
                             <a class=\"dropdown-item\" href=\"#\">Limited Liability Psartnership</a>
                             <a class=\"dropdown-item\" href=\"#\">One Person company</a>
                             <a class=\"dropdown-item\" href=\"#\">Partnership Firm</a>
