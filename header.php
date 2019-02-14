@@ -61,7 +61,7 @@ echo "<!DOCTYPE html>
                     <span class=\"mdi mdi-menu\"></span>
                     <span class=\"mdi mdi-menu\"></span>
                 </button>
-                <a class=\"navbar-brand\" href=\"index.html\"><img src=\"/assets/images/logo.png\" alt=\"\"></a>
+                <a class=\"navbar-brand\" href=\"/\"><img src=\"/assets/images/logo.png\" alt=\"\"></a>
             </div>
             <div class=\"collapse navbar-collapse\" id=\"main-navbar\">
                 <ul class=\"navbar-nav mr-auto w-100 justify-content-end\">
@@ -117,7 +117,7 @@ echo "<!DOCTYPE html>
         <!-- Mobile Menu Start -->
         <ul class=\"wpb-mobile-menu\">
             <li>
-                <a class=\"active\" href=\"index.html\">
+                <a class=\"active\" href=\"/\">
                     Home
                 </a>
             </li>
