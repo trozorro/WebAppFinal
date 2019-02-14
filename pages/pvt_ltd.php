@@ -141,10 +141,11 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
         </section>
         
  <section class=\"steps-container\">
-<div class=\"container\" id=\"process\"></div>
-<div class=\"row\"></div>
-<h1 style=\"text-align:center\"><strong>OUR PROCESS</strong></h1>
+<div class=\"container\" id=\"process\">
+<div class=\"row\">
+<h1 class=\"section-title\">Our Process</h1>
 
+</div>
 <div class=\"col-sm-4\">
 <div class=\"six-steps\"><img src=\"/assets/images/ourprocess/1.png\" />
 <p>Upload the Required Documents &amp; Information to our web portal</p>
@@ -182,12 +183,8 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 </div>
 </div>
 </div>
+</div>
 </section>
-
-
-
-
-
 ";
 
 
