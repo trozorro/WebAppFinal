@@ -17,26 +17,48 @@ echo "
 
 <div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
 <h1 class=\"section-title\">FREQUENTLY ASKED QUESTIONS</h1>
-</div>
-           
-<div class=\"panel-group Material-default-accordion Material-accordion-2\" id=\"Material-accordion2\" role=\"tablist\" aria-multiselectable=\"true\">
+</div>";
+
+$handle = fopen("../faq_pages/faq_data/pvt_ltd.faq", "r");
+if ($handle) {
+
+    $count = 1;
+
+    while (($line = fgets($handle)) !== false) {
+
+        $pos = strpos($line, "?");
+        $ans = substr($line,$pos+1);
+        $que = substr($line,0,$pos+1);
+
+        echo "<div class=\"panel-group Material-default-accordion Material-accordion-2\" id=\"Material-accordion2\" role=\"tablist\" aria-multiselectable=\"true\">
 <div class=\"panel panel-default mb-3\">
-<div class=\"panel-heading\" role=\"tab\" id=\"headingTwo3\">
+<div class=\"panel-heading\" role=\"tab\" id=\"headingTwo".$count."\">
 <h4 class=\"panel-title\">
-<a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#Material-accordion3\" href=\"#collapseTwo3\" aria-expanded=\"false\" aria-controls=\"collapseTwo3\">
-How many people are required to form a private ltd company?
+<a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#Material-accordion3\" href=\"#collapseTwo".$count."\" aria-expanded=\"false\" aria-controls=\"collapseTwo".$count."\">
+".$que."
 </a>
 </h4>
 </div>
-<div id=\"collapseTwo3\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo3\">
+<div id=\"collapseTwo".$count."\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo".$count."\">
 <div class=\"panel-body\">
-Minimum 2 people are required to incorporate a private limited company</div>
+".$ans."</div>
 </div>
 </div>
-</div>
+</div>";
+
+        $count++;
+
+    }
+
+    fclose($handle);
+} else {
+    // error opening the file.
+}
 
 
-</div>
+
+
+echo  " </div>
 
 </section>";
 
