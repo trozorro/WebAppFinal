@@ -42,9 +42,9 @@ echo "<!DOCTYPE html>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/colors/indigo.css\" media=\"screen\" />
 
 
-<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon_180.png\">
-<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon-32x32.png\">
-<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"favicon-16x16.png\">
+<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/favicon_180.png\">
+<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\">
+<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\">
 
 </head>
 <body>
@@ -61,7 +61,7 @@ echo "<!DOCTYPE html>
                     <span class=\"mdi mdi-menu\"></span>
                     <span class=\"mdi mdi-menu\"></span>
                 </button>
-                <a class=\"navbar-brand\" href=\"index.html\"><img src=\"assets/images/logo.png\" alt=\"\"></a>
+                <a class=\"navbar-brand\" href=\"index.html\"><img src=\"/assets/images/logo.png\" alt=\"\"></a>
             </div>
             <div class=\"collapse navbar-collapse\" id=\"main-navbar\">
                 <ul class=\"navbar-nav mr-auto w-100 justify-content-end\">
