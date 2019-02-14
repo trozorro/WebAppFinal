@@ -95,7 +95,7 @@ crafted by experts</h5>
 
 <!-- Our Services Section -->";
 
-require_once "services_cards.php";
+require_once "home_elements/services_cards.php";
 
 echo "<!-- Services Section End -->
 
@@ -172,7 +172,7 @@ Host and manage multiple websites under single cPanel® account.</p>
 
 <!-- Why choose us section -->";
 
-require_once "why_choose.php";
+require_once "home_elements/why_choose.php";
 
 echo "<!-- why choose Section End -->
 
@@ -294,13 +294,13 @@ echo "<!-- why choose Section End -->
 
 <!-- Start Testimonial Section  -->";
 
-require_once "reviews_index.php";
+require_once "home_elements/reviews_index.php";
 
 echo "<!-- End Testimonial Section  -->
 
 <!-- Start Client Section -->";
 
-require_once "clients.php";
+require_once "home_elements/clients.php";
 
 echo "<!-- End Client Section -->
 
