@@ -93,137 +93,11 @@ crafted by experts</h5>
 
 
 
-<!-- About Section -->
-<section class=\"Material-about-section section-padding\">
-    <div class=\"container\">
-    
-    <div class=\"row\">
-            <!-- Section Title -->
-            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Our Services</h1>
-            </div>
-        </div>
-    
-        <div class=\"row\">
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">COMPANY INCORPORATION</h2>
-                    <p>Facilitate to form various type of business entity preferred by most start-up aspirants. Entity can be Private Limited Company, One Person Company, LLP, partnership firm.</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-cash-multiple\"></i>
-                    <h2 class=\"subtitle\">GST</h2>
-                    <p>Our business advisor can assist you in GST registration procedure and get the fastest and most consistent mode of filing GST return online.
-</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-certificate\"></i>
-                    <h2 class=\"subtitle\">ISO CERTIFICATION</h2>
-                    <p>ISO certification process is the key to achieve the prime target of client satisfaction and overall excellence of your business as per the global quality standards.
+<!-- Our Services Section -->";
 
-</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-check-circle\"></i>
-                    <h2 class=\"subtitle\">TRADEMARK</h2>
-                    <p>A trademark application is a mark to distinguish and protect your logo, brand, icon and product from misuse. You can protect your brand with the help of our professional..</p>
-                </div>
-            </div>
-        </div>
-        
-        
-         <div class=\"row\">
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-account\"></i>
-                    <h2 class=\"subtitle\">PATENT</h2>
-                    <p>Patent is an intellectual property one can protect their original invention from infringement by applying patent. Our professional can help you in patent registration online.
+require_once "home_elements/services_cards.php";
 
-</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-copyright\"></i>
-                    <h2 class=\"subtitle\">COPYRIGHT</h2>
-                    <p>Copyright registration helps protect your original artistic, literary and creative works. Through our online process, you can protect your unique creation from plagiarism.</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-arrow-all\"></i>
-                    <h2 class=\"subtitle\">IEC CODE</h2>
-                    <p>Import Export code license is the primary requirement for international trade. The unique IEC Code can help a business gain a prominent presence in the global market.</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-newspaper\"></i>
-                    <h2 class=\"subtitle\">BUSINESS PLAN AND PROJECT REPORT</h2>
-                    <p>A presentable business plan helps you to demonstrate infront of others like banks, investors, other stake holders we can help you design your business plan.
-
-</p>
-                </div>
-            </div>
-        </div>
-       
-       
-        <div class=\"row\">
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-layers\"></i>
-                    <h2 class=\"subtitle\">FSSAI REGISTRATION</h2>
-                    <p>Food security is the prime concern for government & consumers. With FSSAI registration, you can run your food business in compliance with standards of quality and health safety.
-
-</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-android\"></i>
-                    <h2 class=\"subtitle\">ANDROID DEVELOPMENT</h2>
-                    <p>Get cutting-edge android apps with best UI/UX implementations.</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-web\"></i>
-                    <h2 class=\"subtitle\">WEB DEVELOPMENT</h2>
-                    <p>Get professional websites built for you on the go.</p>
-                </div>
-            </div>
-            <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".5s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-responsive\"></i>
-                    <h2 class=\"subtitle\">WEB HOSTING</h2>
-                    <p>Get linux aid web hosting with high-speed dedicated servers.</p>
-                </div>
-            </div>
-        </div> 
-        
-    </div>
-</section>
-
-<!-- About Section End -->
+echo "<!-- Services Section End -->
 
 <!-- Welcome Section Start -->
 <section class=\"welcome-section section-padding section-dark\">
@@ -296,93 +170,11 @@ Host and manage multiple websites under single cPanel® account.</p>
 </section>
 <!-- Welcome Section End -->
 
-<!-- Services Section -->
-<section class=\"Material-service-section section-padding\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <!-- Section Titile -->
-            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">Why Choose us</h1>
-            </div>
-        </div>
-        <!-- Services Widget Section -->
-        <div class=\"row\">
-            <!-- Service Widgets -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".3s\">
-                <div class=\"media\">
-                    <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-arrange-send-backward\"></i>
-                    </div>
-                    <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Startup Friendly</a></h2>
-                        <p>Be it a start-up or big company. We are here for the business registrations and climbing.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Service Widgets -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".4s\">
-                <div class=\"media\">
-                    <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-clock\"></i>
-                    </div>
-                    <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Time Saving</a></h2>
-                        <p>Starting up a business is no more a big deal and time-consuming.Trozorro provides solutions quickly and hasslefree.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Service Widgets -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".5s\">
-                <div class=\"media\">
-                    <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-update\"></i>
-                    </div>
-                    <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Continuous Support</a></h2>
-                        <p>Best in-class service and support round the clock.We are happy to hear you.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Service Widgets -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".6s\">
-                <div class=\"media\">
-                    <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-cash\"></i>
-                    </div>
-                    <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Cost effective solution</a></h2>
-                        <p>Trozorro provides brilliant tech solutions to the enterprises. As, We believe in prompt solution when it comes to client projects.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Service Widgets -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".7s\">
-                <div class=\"media\">
-                    <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-account-key\"></i>
-                    </div>
-                    <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Client Data Confidentiality</a></h2>
-                        <p>Privacy of your data is our foremost responsibilty.We keep our client data secure and confidential.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Service Widgets -->
-            <div class=\"col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp\" data-wow-delay=\".8s\">
-                <div class=\"media\">
-                    <div class=\"media-left\">
-                        <i class=\"material-icons pulse-shrink mdi mdi-shape-plus\"></i>
-                    </div>
-                    <div class=\"media-body\">
-                        <h2 class=\"subtitle\"><a href=\"#\">Tech solutions</a></h2>
-                        <p>Trozorro also provides a numerous stack solutions such as web and android app development along with web hosting. </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Services Section End -->
+<!-- Why choose us section -->";
+
+require_once "home_elements/why_choose.php";
+
+echo "<!-- why choose Section End -->
 
 
 <!-- work-counter area -->
@@ -424,11 +216,8 @@ Host and manage multiple websites under single cPanel® account.</p>
         </div>
     </div>
 </section>
+
 <!-- work-counter area end -->
-
-
-
-
 
 <section class=\"team section-padding section-dark\">
     <div class=\"container\">
@@ -503,133 +292,17 @@ Host and manage multiple websites under single cPanel® account.</p>
 
 
 
-<!-- Call to action Section End -->
+<!-- Start Testimonial Section  -->";
 
-<!-- Start Testimonial Section  -->
-<div class=\"testimonial section-padding\">
-    <div class=\"container\">
-        <div class=\"row\">
+require_once "home_elements/reviews_index.php";
 
-            <div class=\"testimonials-carousel owl-carousel\">
-                <div class=\"item\">
-                    <div class=\"testimonial-item\">
-                        <div class=\"datils\">
-                            <h5>Adam Schwartz</h5>
-                            <span>Software Articulate, Google</span>
-                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
-                        </div>
-                        <div class=\"img\">
-                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author1.jpg\" alt=\"\"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"item\">
-                    <div class=\"testimonial-item\">
-                        <div class=\"datils\">
-                            <h5>Clark Brown</h5>
-                            <span>Brand Managerr</span>
-                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
-                        </div>
-                        <div class=\"img\">
-                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author2.jpg\" alt=\"\"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"item\">
-                    <div class=\"testimonial-item\">
-                        <div class=\"datils\">
-                            <h5>Ana Blunt</h5>
-                            <span>Creative Director</span>
-                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
-                        </div>
-                        <div class=\"img\">
-                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author3.jpg\" alt=\"\"></a>
-                        </div>
-                    </div>
-                </div>
-                 <div class=\"item\">
-                    <div class=\"testimonial-item\">
-                        <div class=\"datils\">
-                            <h5>Adam Schwartz</h5>
-                            <span>Software Articulate, Google</span>
-                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
-                        </div>
-                        <div class=\"img\">
-                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author1.jpg\" alt=\"\"></a>
-                        </div>
-                    </div>
-                </div>
-                 <div class=\"item\">
-                    <div class=\"testimonial-item\">
-                        <div class=\"datils\">
-                            <h5>Adam Schwartz</h5>
-                            <span>Software Articulate, Google</span>
-                            <p>Happy to chose trozorro.They did excellent job with affordable price.<br> working with them helped our start-up company.</p>
-                        </div>
-                        <div class=\"img\">
-                            <a href=\"#\"><img class=\"img-fluid\" src=\"assets/images/testimonial/author1.jpg\" alt=\"\"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-</div>
+echo "<!-- End Testimonial Section  -->
 
+<!-- Start Client Section -->";
 
-<!-- End Testimonial Section  -->
+require_once "home_elements/clients.php";
 
-<!-- Start Client Section -->
-<div class=\"client section-padding section-dark\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <div id=\"client-logo\" class=\"owl-carousel\">
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client1.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client2.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client3.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client4.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client1.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client2.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client3.png\" alt=\"\" />
-                    </a>
-                </div>
-                <div class=\"client-logo item\">
-                    <a href=\"#\">
-                        <img class=\"img-fluid\" src=\"assets/images/clients/client4.png\" alt=\"\" />
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Client Section -->
+echo "<!-- End Client Section -->
 
 
 
