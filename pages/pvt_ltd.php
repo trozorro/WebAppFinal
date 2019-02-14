@@ -164,7 +164,7 @@ echo "<div id=\"main-slide\" class=\"carousel slide\" data-ride=\"carousel\">
 </div>
 
 <div class=\"col-sm-4\">
-<div class=\"six-steps\"><img src=\"https://www.e-startupindia.com/images/4.png\" />
+<div class=\"six-steps\"><img src=\"/assets/images/ourprocess/4.png\" />
 <p>Check for Company&rsquo;s Name availability, apply for Name Approval.</p>
 </div>
 </div>
