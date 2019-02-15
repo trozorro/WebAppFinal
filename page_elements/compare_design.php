@@ -32,12 +32,22 @@ echo "<section class=\"Material-about-section section-padding\">
  
  
  <div class=\"table-responsive span12\"> 
+ 
  <table class=\"table table-condensed text-center\"> <thead> 
  
  
  
- <tr> <th></th> <th>Private Limited Company</th>
-  <th>Limited Liability Partnership</th> <th>One Person Company</th> <th>Partnership <br/> Firm</th>
+ <tr> <th></th> 
+ 
+ <th>Private Limited Company</th>
+ 
+ 
+  <th>Limited Liability Partnership</th>
+   
+   <th>One Person Company</th> 
+   
+   <th>Partnership <br/> Firm</th>
+   
    <th>Sole Proprietorship</th> </tr> 
    
    
@@ -47,7 +57,7 @@ echo "<section class=\"Material-about-section section-padding\">
    <tr> <td>
    <strong>Recommended For</strong></td> ";
 
-$page="pvt_ltd";
+
 
 $class1 = "greyBg";
 $class2 = "greyBg";
@@ -225,13 +235,13 @@ echo   "<td class=\"".$class1."\">Start-ups and growing companies</td>
    echo "<td class=tablehighlightBottomTDBorder></td>";
 
 
-        else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/sole_prop.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+        else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/part_firm.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
 </td > ";
 if($page=="sole_prop")
     echo "<td class=tablehighlightBottomTDBorder></td>";
 
 
-else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"#\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/sole_prop.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
 </td > ";
 
         echo  "</tr>
