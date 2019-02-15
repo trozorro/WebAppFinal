@@ -28,7 +28,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"row\">
 
 <div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
-<h1 class=\"section-title\">COMPANY REGISTRATION PROCESS</h1>
+<h1 class=\"section-title\">WHAT IS SOLE PROPRIETORSHIP?</h1>
 </div>
 </div>
 <div class=\"row mt-2 wow animated fadeInUp\" data-wow-delay=\".4s\">
@@ -39,32 +39,17 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 <div class=\"col-md-8\">
-<p>The private limited company registration process is completely online, so you don't even need to leave your home to get your entity registered within 14 working days. At Vakilsearch, we are continuously available to help you understand how to register a private limited company. Company Registration in India can be done through VakilSearch in all major cities, including Hyderabad, Mumbai, and New Delhi, Chennai, Kolkata & all other Indian cities.</p>
-<p>A detailed explanation of the procedure now follows, along with expected timelines and charges involved.</p>
+<p>A sole proprietorship is a business that is owned and managed by a single person. You could have one up and running within 15 days, which makes it very popular among the unorganised sector, particularly small traders and merchants. There is no such thing as registration; proprietorships are recognised by other registrations, such as a GST registration. As you would imagine with a business that’s so easy to set up, though, its shortcomings are severe: the liability of the proprietor is unlimited and it does not have a continuous existence.</p>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Obtaining DSC and DIN</a>
-<p>Only a single director needs to have a Class-2 Digital Signature Certificate (DSC), which is needed to sign electronic documents. To get one, all you need is a self-attested copy of the director's PAN card and address proof (latest utility bill, passport, driver's license of voter's ID). This can be completed in 2 days.</p>
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Sole proprietorship registration process</a>
+<p><ul><li>We will help you decide what registration you need, whether service tax, sales tax, import/export code, professional tax or Shops and Establishments Act registration. We will also inform you of the documents you need to get started.</li>
+<li>We will connect you to a verified vendor who will file your application and keep you up-to-date on its status. Our vendors are well-experienced in handling local registrations.</li>
+<li>We will offer our complete support until you receive the registration you've selected. This could take up to 15 days in some cases, but as few as 5 days in others. This depends on the workload of authorities and other externalities.</li></u></p>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Application for Company Name</a>
-<p>You need to now ensure that your name has not already been taken. This can be done by running a company name search. If you are disappointed that a preferred name is taken, do remember that the name of your company doesn't have to be your brand name. However, if you're going to register the brand name, also check if it has already been trademarked at http://www.ipindia.gov.in/. If it has been trademarked, you would need a no-objection certificate from its owner to have it approved as your company's name.</p>
-<p>Secondly, you need to comply with the MCA guidelines. You can do so by ensuring that the name has a unique component and a descriptive component.</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Company Registration Form & MoA & AoA Submission</a>
-<p>Once you have your name, you need to get the Memorandum & Articles of Association approved. Here are all the other documents you'll need in order:</p>
-<p> <ul> <li>Copy of Rental Agreement (along with NOC from owner)/Sale Deed</li> <li>Latest Utility Bill</li> <li>Affidavit from director and shareholders</li> <li>Copy of PAN card, Identity and Address Proof for DIN for 2 directors</li> </ul> </p>
-<p>With these ready, you can submit the company registration form INC-32 (also known as Spice).</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Company Incorporation Certificate</a>
-<p>Once your MoA and AoA are approved, you’re almost there. You can now get your company incorporation certificate by submitting all the above-mentioned documents to the RoC. This can take anywhere from 48 hours to even two weeks. On arrival of the company incorporation certificate, your company is registered.</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Apply for PAN & TAN & Bank Account</a>
-<p>The moment your company is incorporated, you need to apply for a PAN & TAN with NSDL. It costs under Rs. 200, but will take up to three weeks to get done.</p>
-<p><small><strong>Note:</strong> Always be prepared for a longer wait, particularly if the Registrar of Companies (RoC) has a heavy workload at the time or your proposed company's name is rejected on first attempt.</small></p>
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Advantages of sole proprietorship</a>
+<p> <ul> <li>Sole Proprietorships are only recognised via their government and tax registrations, so the extent of their compliance is limited to the annual filing of their service, professional or sales taxes.</li> <li>A sole proprietorship could take 15 days to start if all you need is a GST registration. Either way, the process is uncomplicated. PAN card and identity and address proofs are enough to get them done.l</li> <li>A Sole Proprietorship is inexpensive as compared to a One Person Company (OPC) and, thanks to the minimal compliance requirements, is inexpensive even over the long-term. You would not need to hire an auditor, for example. This is why, despite its severe shortcoming (unlimited liability), small merchants and traders opt for it.</li></ul> </p>
 </div>
 </div>
 </div>

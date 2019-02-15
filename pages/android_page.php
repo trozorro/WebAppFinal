@@ -15,7 +15,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <img class=\"d-block w-100\" src=\"/assets/images/slider/slider-bg1.jpg\" alt=\"First slide\">
             <div class=\"carousel-caption d-md-block\">
                 <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Android development</h1>
-                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Trozorro's android app development platform offers professional app development services for Android platform that supports different android devices.</h5>
+                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Trozorro's app development platform offers professional app development services for Android platform that supports different android devices.</h5>
                 <!--Btns here-->
                 </div>
         </div>

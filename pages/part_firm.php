@@ -27,7 +27,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"row\">
 
 <div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
-<h1 class=\"section-title\">COMPANY REGISTRATION PROCESS</h1>
+<h1 class=\"section-title\">WHAT IS GENERAL PARTNERSHIP?</h1>
 </div>
 </div>
 <div class=\"row mt-2 wow animated fadeInUp\" data-wow-delay=\".4s\">
@@ -38,35 +38,34 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 <div class=\"col-md-8\">
-<p>The private limited company registration process is completely online, so you don't even need to leave your home to get your entity registered within 14 working days. At Vakilsearch, we are continuously available to help you understand how to register a private limited company. Company Registration in India can be done through VakilSearch in all major cities, including Hyderabad, Mumbai, and New Delhi, Chennai, Kolkata & all other Indian cities.</p>
-<p>A detailed explanation of the procedure now follows, along with expected timelines and charges involved.</p>
+<p>A General Partnership is a business structure in which two or more individuals manage and operate a business in accordance with the terms and objectives set out in the Partnership Deed. This structure is thought to have lost its relevance since the introduction of the Limited Liability Partnership (LLP) because its partners have unlimited liability, which means they are personally liable for the debts of the business. However, low costs, ease of setting up and minimal compliance requirements make it a sensible option for some, such as home businesses that are unlikely to take on any debt. Registration is optional for General Partnerships.</p>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Obtaining DSC and DIN</a>
-<p>Only a single director needs to have a Class-2 Digital Signature Certificate (DSC), which is needed to sign electronic documents. To get one, all you need is a self-attested copy of the director's PAN card and address proof (latest utility bill, passport, driver's license of voter's ID). This can be completed in 2 days.</p>
+<h1><a href=\"#\"><i></i>6 ESSENTIAL FACTS ON PARTNERSHIP</a></h1>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Application for Company Name</a>
-<p>You need to now ensure that your name has not already been taken. This can be done by running a company name search. If you are disappointed that a preferred name is taken, do remember that the name of your company doesn't have to be your brand name. However, if you're going to register the brand name, also check if it has already been trademarked at http://www.ipindia.gov.in/. If it has been trademarked, you would need a no-objection certificate from its owner to have it approved as your company's name.</p>
-<p>Secondly, you need to comply with the MCA guidelines. You can do so by ensuring that the name has a unique component and a descriptive component.</p>
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>What is a partnership firm?</a>
+<p>A partnership firm is a business structure in which two or more individuals manage and operate a business in accordance with the terms and objectives set out in a Partnership Deed that may or may not be registered. In such a business, the members are individually partners and share the liabilities as well as profits of the firm in a predetermined ratio.</p>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Company Registration Form & MoA & AoA Submission</a>
-<p>Once you have your name, you need to get the Memorandum & Articles of Association approved. Here are all the other documents you'll need in order:</p>
-<p> <ul> <li>Copy of Rental Agreement (along with NOC from owner)/Sale Deed</li> <li>Latest Utility Bill</li> <li>Affidavit from director and shareholders</li> <li>Copy of PAN card, Identity and Address Proof for DIN for 2 directors</li> </ul> </p>
-<p>With these ready, you can submit the company registration form INC-32 (also known as Spice).</p>
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Why should I set up a partnership firm?</a>
+<p>A partnership firm is best for small businesses that plan to remain small. Low costs, ease of setting up and minimal compliance requirements make it a sensible option for such businesses. Registration is optional for General Partnerships. It is governed by Section 4 of the Partnership Act, 1932. For larger businesses, it has lost its relevance with the introduction of the Limited Liability Partnership (LLP). This is because an LLP retains the low costs of a partnership while providing the benefit of unlimited liability, which means that partners are not personally liable for the debts of the business.</p>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Company Incorporation Certificate</a>
-<p>Once your MoA and AoA are approved, you’re almost there. You can now get your company incorporation certificate by submitting all the above-mentioned documents to the RoC. This can take anywhere from 48 hours to even two weeks. On arrival of the company incorporation certificate, your company is registered.</p>
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Is a partnership firm a separate entity?</a>
+<p>The partners in a partnership firm are the owners, and thus, are not separate entity from the firm. Any legal issues or debt incurred by the firm is the responsibility of its owners, the partners.</p>
 </div>
 <div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Apply for PAN & TAN & Bank Account</a>
-<p>The moment your company is incorporated, you need to apply for a PAN & TAN with NSDL. It costs under Rs. 200, but will take up to three weeks to get done.</p>
-<p><small><strong>Note:</strong> Always be prepared for a longer wait, particularly if the Registrar of Companies (RoC) has a heavy workload at the time or your proposed company's name is rejected on first attempt.</small></p>
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>How many partners can there be?</a>
+<p>A partnership must have at least two partners. A partnership firm in the banking business can have up to 10 partners, while those engaged in any other business can have 20 partners. These partners can divide profits and losses equally or unequally.</p>
 </div>
+<div class=\"col-md-8\">
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Is partnership firm registration necessary?</a>
+<p>No, registration of a partnership is not necessary. However, for a partner to sue another partner or the firm itself, the partnership should be registered. Moreover, for the partnership to bring any suit to court, the firm should be registered. For this reason, it is recommended that larger businesses register the partnership deed.</p>
 </div>
-</div>
+<div class=\"col-md-8\">
+<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>What are the main aspects of a partnership deed?</a>
+<p>The deed should contain names of the partners and their addresses, the partnership name, the date of commencement of operation of the firm, any capital invested by each partner, the type of partnership and profit-sharing matrix, rules and regulations to be followed for intake of partners or removal.</p>
 </div>
 </div>
 </section>
