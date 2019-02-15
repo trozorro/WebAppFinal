@@ -21,7 +21,11 @@ echo "
 
 </div>";
 
-$handle = fopen("../faq_pages/faq_data/pvt_ltd.faq", "r");
+
+
+
+
+$handle = fopen("../faq_pages/faq_data/".$faq.".faq", "r");
 if ($handle) {
 
     $count = 1;

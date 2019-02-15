@@ -372,7 +372,9 @@ echo "
 
 
 
-require_once "../faq_pages/part_firm_faq.php";
+$faq = "part_firm_faq";
+
+require_once "../faq_pages/faq_handler.php";
 
 require_once "../page_elements/compare_design.php";
 

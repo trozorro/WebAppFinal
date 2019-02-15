@@ -370,9 +370,9 @@ echo "
 
 
 
+$faq = "lmt_liability";
 
-
-require_once "../faq_pages/lmt_liability_faq.php";
+require_once "../faq_pages/faq_handler.php";
 
 require_once "../page_elements/compare_design.php";
 
