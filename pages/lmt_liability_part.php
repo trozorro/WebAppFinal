@@ -5,6 +5,8 @@
  * Date: 14-02-2019
  * Time: 19:30
  */
+
+$page = "lmt_liability";
 require_once "../config.php";
 require_once "../header.php";
 
@@ -370,7 +372,7 @@ echo "
 
 
 
-$faq = "lmt_liability";
+
 
 require_once "../faq_pages/faq_handler.php";
 

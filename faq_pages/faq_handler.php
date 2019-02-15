@@ -25,7 +25,7 @@ echo "
 
 
 
-$handle = fopen("../faq_pages/faq_data/".$faq.".faq", "r");
+$handle = fopen("../faq_pages/faq_data/".$page.".faq", "r");
 if ($handle) {
 
     $count = 1;

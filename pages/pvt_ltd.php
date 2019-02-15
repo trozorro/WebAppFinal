@@ -5,6 +5,8 @@
  * Date: 14-02-2019
  * Time: 19:30
  */
+
+$page = "pvt_ltd";
 require_once "../config.php";
 require_once "../header.php";
 
@@ -372,7 +374,6 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 
-$faq = "pvt_ltd";
 
 require_once "../faq_pages/faq_handler.php";
 

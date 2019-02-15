@@ -5,6 +5,7 @@
  * Date: 2/15/2019
  * Time: 09:42 PM
  */
+$page = "one_person";
 require_once "../config.php";
 require_once "../header.php";
 echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
@@ -353,7 +354,7 @@ The One Person Company (OPC) was recently introduced as a strong improvement ove
 
 
 
-$faq = "one_person";
+
 
 require_once "../faq_pages/faq_handler.php";
 
