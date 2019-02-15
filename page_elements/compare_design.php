@@ -32,35 +32,115 @@ echo "<section class=\"Material-about-section section-padding\">
  
  
  <div class=\"table-responsive span12\"> 
- <table class=\"table table-condensed text-center\"> <thead> <tr> <th></th> <th>Private Limited Company</th>
+ <table class=\"table table-condensed text-center\"> <thead> 
+ 
+ 
+ 
+ <tr> <th></th> <th>Private Limited Company</th>
   <th>Limited Liability Partnership</th> <th>One Person Company</th> <th>Partnership <br/> Firm</th>
-   <th>Sole Proprietorship</th> </tr> </thead> <tbody> <tr> <td>
+   <th>Sole Proprietorship</th> </tr> 
+   
+   
+   </thead> <tbody> 
+   
+   
+   <tr> <td>
    <strong>Recommended For</strong></td> <td class=\"tablehighlightTD tablehighlightTopTDBorder\">Start-ups and growing companies</td> 
    <td class=greyBg>Professional services firms</td> <td class=greyBg>Sole promoters</td>
     <td class=greyBg>Home businesses</td>
-    <td class=greyBg>Small traders and manufacturers</td> </tr> <tr> <td>
+    <td class=greyBg>Small traders and manufacturers</td> </tr> 
+    
+    
+    
+    <tr> <td>
     <strong>Ease of Accommodating Investment</strong></td>
      <td class=tablehighlightTD>Very easy to accommodate</td> <td class=greyBg>Possible, but unlikely</td> 
      <td class=greyBg>Possible, but severely unlikely</td> <td class=greyBg>Almost impossible</td>
       <td class=greyBg>Impossible</td> 
-     </tr> <tr> <td><strong>Limited Liability Protection</strong></td>
+     </tr>
+      
+      
+      
+      
+      <tr> <td><strong>Limited Liability Protection</strong></td>
       <td class=tablehighlightTD>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>No</td>
-       <td class=greyBg>No</td> </tr> <tr> <td><strong>Tax Advantages</strong></td> 
+       <td class=greyBg>No</td> </tr> 
+       
+       
+       
+       
+       
+       <tr> <td><strong>Tax Advantages</strong></td> 
        <td class=tablehighlightTD>Few benefits</td> 
        <td class=greyBg>Most efficient</td> <td class=greyBg>Few benefits</td> <td class=greyBg>Minimal</td> 
-       <td class=greyBg>Minimal</td> </tr> <tr> <td><strong>Perpetual Existence</strong></td>
+       <td class=greyBg>Minimal</td> </tr> 
+       
+       
+       
+       
+       <tr> <td><strong>Perpetual Existence</strong></td>
         <td class=tablehighlightTD>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>No</td> 
-        <td class=greyBg>No</td> </tr> <tr> <td><strong>Statutory Compliances</strong></td>
+        <td class=greyBg>No</td> </tr>
+         
+         
+         
+         
+         
+         <tr> <td><strong>Statutory Compliances</strong></td>
          <td class=tablehighlightTD>High</td> <td class=greyBg>Low</td> <td class=greyBg>High</td> <td class=greyBg>Minimal</td> 
-         <td class=greyBg>Minimal</td> </tr> <tr> <td></td> <td class=tablehighlightBottomTDBorder></td>
-          <td><a class=\"animated fadeInUp wow btn btn-common\" href=\"#\"><i class=\"icon-shopping-cart icon-white\"></i> Know More »</a>
-          </td> <td><a class=\"animated fadeInUp wow btn btn-common\" href=\"#\">
+         <td class=greyBg>Minimal</td> </tr>";
           
-          <i class=\"icon-shopping-cart icon-white\"></i> Know More »</a></td> 
-          <td><a class=\"animated fadeInUp wow btn btn-common\" href=\"#\">
-          <i class=\"icon-shopping-cart icon-white\"></i> Know More »</a></td> 
-          <td><a class=\"animated fadeInUp wow btn btn-common\" href=\"#\">
-          <i class=\"icon-shopping-cart icon-white\"></i> Know More »</a></td> </tr> </tbody> </table> </div> </div> </div> 
+          
+          
+       echo "   <tr> 
+   
+   
+   <td></td> ";
+
+       $page="pvt_ltd";
+   
+   if($page=="pvt_ltd")
+   echo "<td class=tablehighlightBottomTDBorder></td>";
+
+
+        else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/pvt_ltd.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+</td > ";
+
+        if($page=="lmt_liability")
+   echo "<td class=tablehighlightBottomTDBorder></td>";
+
+
+        else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/lmt_liability_part.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+</td > ";
+          
+          
+        if($page=="one_person")
+   echo "<td class=tablehighlightBottomTDBorder></td>";
+
+
+        else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/one_person_comp.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+</td > ";
+          
+         if($page=="part_firm")
+   echo "<td class=tablehighlightBottomTDBorder></td>";
+
+
+        else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"/pages/sole_prop.php\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+</td > ";
+if($page=="sole_prop")
+    echo "<td class=tablehighlightBottomTDBorder></td>";
+
+
+else echo "<td><a class=\"animated fadeInUp wow btn btn-common\" href=\"#\"><i class=\"material-icons mdi mdi-cart\"></i> Know More »</a>
+</td > ";
+
+        echo  "</tr>
+          
+          
+          
+          
+          
+          </tbody> </table> </div> </div> </div> 
            </section>";
 ?>
 
