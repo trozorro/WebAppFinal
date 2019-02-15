@@ -80,25 +80,25 @@ echo "<!DOCTYPE html>
                         </div>
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+                        <a class=\"nav-link \" href=\"/pages/android_page.php\">
                             Android Development
                         </a>
 
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+                        <a class=\"nav-link \" href=\"#\" >
                             Web Development
                         </a>
 
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+                        <a class=\"nav-link\" href=\"#\">
                             Web Hosting
                         </a>
 
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+                        <a class=\"nav-link\" href=\"#\" >
                             Contact Us
                         </a>
 
@@ -145,7 +145,7 @@ echo "<!DOCTYPE html>
                 </ul>
             </li>
             <li>
-                <a href=\"#\">
+                <a href=\"/pages/android_page.php\">
                     Android Development
                 </a>
 
