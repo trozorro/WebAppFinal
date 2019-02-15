@@ -98,7 +98,7 @@ echo "<!DOCTYPE html>
 
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link\" href=\"#\" >
+                        <a class=\"nav-link\" href=\"/pages/contact.php\" >
                             Contact Us
                         </a>
 
@@ -163,7 +163,7 @@ echo "<!DOCTYPE html>
 
             </li>
             <li>
-                <a href=\"#\">
+                <a href=\"/pages/contact.php\">
                     Contact Us
                 </a>
 

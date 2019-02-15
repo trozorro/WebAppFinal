@@ -71,7 +71,7 @@ We plan and design our web development packages as per the requirements of the c
 
 
 <div class=\"col-md-8\">
-<p>As per the personalized demands, we design and develop the apps that meet the business objectives. We deliver the developed apps after testing and confirming the quality of the app. As a leading mobile app development company, we offer android app development services for multiple domains that include Business, E-commerce, Security, Healthcare, Finance, Travel, and Game, Music, Utilities, etc.</p></div>
+<p>".$WebName." Technologies allocate you the leading Vue.js team of a dedicated programmer for Vue.js that assure the timely and quality development services. As Vue.js framework provides many great features which help in reducing the project complexity and enhance the performance, so will surely offer you a high-quality project.</p></div>
 
 
 
