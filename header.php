@@ -127,10 +127,10 @@ echo "<!DOCTYPE html>
                 </a>
                 <ul class=\"dropdown\">
                     <li>
-                        <a href=\"pvt_ltd.php\">Private Limited Company</a>
+                        <a href=\"/pages/pvt_ltd.php\">Private Limited Company</a>
                     </li>
                     <li>
-                        <a href=\"lmt_liability_part.php\">Limited Liability Psartnership</a>
+                        <a href=\"/pages/lmt_liability_part.php\">Limited Liability Psartnership</a>
                     </li>
                     <li>
                         <a href=\"/pages/one_person_comp.php\">One Person company</a>

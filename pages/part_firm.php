@@ -40,8 +40,13 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"col-md-8\">
 <p>A General Partnership is a business structure in which two or more individuals manage and operate a business in accordance with the terms and objectives set out in the Partnership Deed. This structure is thought to have lost its relevance since the introduction of the Limited Liability Partnership (LLP) because its partners have unlimited liability, which means they are personally liable for the debts of the business. However, low costs, ease of setting up and minimal compliance requirements make it a sensible option for some, such as home businesses that are unlikely to take on any debt. Registration is optional for General Partnerships.</p>
 </div>
-<div class=\"col-md-8\">
-<h1><a href=\"#\"><i></i>6 ESSENTIAL FACTS ON PARTNERSHIP</a></h1>
+<div class=\"container\">
+<div class=\"row\">
+
+<div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
+<h4 class=\"section-title\">6 Essential Facts On Partnership</h4>
+</div>
+</div>
 </div>
 <div class=\"col-md-8\">
 <a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>What is a partnership firm?</a>
