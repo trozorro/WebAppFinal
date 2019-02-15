@@ -370,9 +370,9 @@ echo "
 
 
 
+$faq="sole_prop";
 
-
-require_once "../faq_pages/sole_prop_faq.php";
+require_once "../faq_pages/faq_handler.php";
 
 require_once "../page_elements/compare_design.php";
 

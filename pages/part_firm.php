@@ -372,7 +372,7 @@ echo "
 
 
 
-$faq = "part_firm_faq";
+$faq = "part_firm";
 
 require_once "../faq_pages/faq_handler.php";
 
