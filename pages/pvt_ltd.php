@@ -372,7 +372,9 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 
-require_once "../faq_pages/pvt_ltd_faq.php";
+$faq = "pvt_ltd";
+
+require_once "../faq_pages/faq_handler.php";
 
 require_once "../page_elements/compare_design.php";
 
