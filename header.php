@@ -86,7 +86,7 @@ echo "<!DOCTYPE html>
 
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link \" href=\"#\" >
+                        <a class=\"nav-link \" href=\"/pages/web_dev.php\" >
                             Web Development
                         </a>
 
@@ -151,7 +151,7 @@ echo "<!DOCTYPE html>
 
             </li>
             <li>
-                <a href=\"#\">
+                <a href=\"/pages/web_dev.php\">
                     Web Development
                 </a>
 

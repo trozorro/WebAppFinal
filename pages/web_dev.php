@@ -6,7 +6,7 @@
  * Time: 19:30
  */
 
-$page = "android";
+$page = "web";
 require_once "../config.php";
 require_once "../header.php";
 
@@ -16,8 +16,8 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
         <div class=\"carousel-item active\">
             <img class=\"d-block w-100\" src=\"/assets/images/slider/slider-bg1.jpg\" alt=\"First slide\">
             <div class=\"carousel-caption d-md-block\">
-                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Android development</h1>
-                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Trozorro's app development platform offers professional app development services for Android platform that supports different android devices.</h5>
+                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Web development</h1>
+                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">Web development is considered as an essential factor for business growth. It is essential for enterprises to broaden their visibility on the digital platform.Trozorro brings you with the solutions to all your web problems.</h5>
                 <!--Btns here-->
                 </div>
         </div>
@@ -28,7 +28,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"row\">
 
 <div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
-<h1 class=\"section-title\">ANDROID APP DEVELOPMENT</h1>
+<h1 class=\"section-title\">WEB DEVELOPMENT</h1>
 </div>
 </div>
 <div class=\"row mt-2 wow animated fadeInUp\" data-wow-delay=\".4s\">
@@ -39,9 +39,9 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 <div class=\"col-md-8\">
-<p>".$WebName." is the pioneering android app development company that offers professional app development services for Android platform that supports different android devices. Conducting in-depth research and analyzing the requirements of the clients, we design the plan and developing apps that stand out in the Google Play Store.
+<p>".$WebName."  is the leading IT hub point that offers best customized web development services. We have been able to earn a distinguished reputation in the industry for delivering the most beneficial web development services. We have a skilled team of web developers and designers who are well-versed with the tech updates and the latest market requirements.
 
-We give our highest efforts for developing Android apps for our clients. We have certified, highly experienced and creative app developers India having access to a wide range of advanced tools and technologies. We develop customized apps integrating with essential features that turn the app to be a scalable and robust for any device.</p>
+We plan and design our web development packages as per the requirements of the clients which is ultimately beneficial for our clients. As a leading web development company, we utilize state-of-the-art technologies for creating a lasting impression of the brands on the digital platform. We initiate the process of web development after collecting the requirements of the business and the trending market strategy!</p>
 </div>
 
 
