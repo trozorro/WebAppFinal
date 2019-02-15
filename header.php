@@ -73,7 +73,7 @@ echo "<!DOCTYPE html>
                         <div class=\"dropdown-menu\">
                             <a class=\"dropdown-item\" href=\"/pages/pvt_ltd.php\">Private Limited Company</a>
                             <a class=\"dropdown-item\" href=\"#\">Limited Liability Partnership</a>
-                            <a class=\"dropdown-item\" href=\"/pages/1_person_comp.php\">One Person company</a>
+                            <a class=\"dropdown-item\" href=\"/pages/one_person_comp.php\">One Person company</a>
                             <a class=\"dropdown-item\" href=\"#\">Partnership Firm</a>
                             <a class=\"dropdown-item\" href=\"#\">Sole Proprietorship</a>
 
@@ -133,7 +133,7 @@ echo "<!DOCTYPE html>
                         <a href=\"#\">Limited Liability Psartnership</a>
                     </li>
                     <li>
-                        <a href=\"/pages/1_person_comp.php\">One Person company</a>
+                        <a href=\"/pages/one_person_comp.php\">One Person company</a>
                     </li>
                     <li>
                         <a href=\"#\">Partnership Firm</a>
