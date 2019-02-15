@@ -250,7 +250,104 @@ The One Person Company (OPC) was recently introduced as a strong improvement ove
            
            </div>
            </section>
-                   
+         
+         
+           <section class=\"Material-pricing-table-section section-padding\">
+<div class='container'>
+<div class=\"row\">
+<div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
+<h1 class=\"section-title\">Our Pricing</h1>
+</div>
+</div>
+<div class=\"row gg-pricing-table icon-table\">
+
+<div class=\"col-md-4 wow fadeInUp animated\" data-wow-delay=\".3s\">
+<div class=\"single-pricing-table text-center clearfix\">
+
+<div class=\"pricing-table-heading\">
+<div class=\"pricing-icon\">
+<img src=\"/assets/images/bicycle.png\" alt=\"\" class=\"center-block img-fluid\">
+</div>
+<h2>Basic</h2>
+</div>
+
+<div class=\"price\">
+<span>₹500</span>
+</div>
+
+<div class=\"pricing-item\">
+<ul>
+<li><p><strong>1</strong> User</p></li>
+<li><p><strong>Limited</strong> Projects</p></li>
+<li><p><strong>2GB</strong> Storage</p></li>
+</ul>
+</div>
+
+<div class=\"pricing-button\">
+<a href=\"javascript:void(0)\" class=\"btn btn-common\"><i class=\"fa fa-check\"></i> Buy Now<div class=\"ripple-container\"></div></a>
+</div>
+</div>
+</div>
+
+<div class=\"col-md-4 wow fadeInUp animated\" data-wow-delay=\".4s\">
+<div class=\"single-pricing-table text-center clearfix\">
+
+<div class=\"pricing-table-heading\">
+<div class=\"pricing-icon\">
+<img src=\"/assets/images/vespa-1.png\" alt=\"\" class=\"center-block img-fluid\">
+</div>
+<h2>Standard</h2>
+</div>
+
+<div class=\"price\">
+<span>₹1000</span>
+</div>
+
+<div class=\"pricing-item\">
+<ul>
+<li><p><strong>2</strong> User</p></li>
+<li><p><strong>Unlimited</strong> Projects</p></li>
+<li><p><strong>20GB</strong> Storage</p></li>
+</ul>
+</div>
+
+<div class=\"pricing-button\">
+<a href=\"javascript:void(0)\" class=\"btn btn-common\"><i class=\"fa fa-check\"></i> Buy Now<div class=\"ripple-container\"></div></a>
+</div>
+</div>
+</div>
+
+<div class=\"col-md-4 wow fadeInUp animated\" data-wow-delay=\".5s\">
+<div class=\"single-pricing-table text-center clearfix\">
+
+<div class=\"pricing-table-heading\">
+<div class=\"pricing-icon\">
+<img src=\"/assets/images/car.png\" alt=\"\" class=\"center-block img-fluid\">
+</div>
+<h2>Premium</h2>
+</div>
+
+<div class=\"price\">
+<span>₹5000</span>
+</div>
+
+<div class=\"pricing-item\">
+<ul>
+<li><p><strong>20</strong> User</p></li>
+<li><p><strong>Unlimited</strong> Projects</p></li>
+<li><p><strong>200GB</strong> Storage</p></li>
+</ul>
+</div>
+
+<div class=\"pricing-button\">
+<a href=\"javascript:void(0)\" class=\"btn btn-common\"><i class=\"fa fa-check\"></i> Buy Now<div class=\"ripple-container\"></div></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+          
                 
 ";
 
