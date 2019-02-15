@@ -144,6 +144,76 @@ We give our highest efforts for developing Android apps for our clients. We have
  
 
 
+
+
+
+
+
+<section class=\"Material-about-section section-padding\">
+    <div class=\"container\">
+    
+    <div class=\"row\">
+            <!-- Section Title -->
+            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
+                <h1 class=\"section-title\">Why ".$WebName."?</h1>
+            </div>
+        </div>
+    
+    
+    
+        <div class=\"row\">
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                   <img src='/assets/images/info-box7.png'/>
+                    <h2 class=\"subtitle\">ON DEMAND DEVOTED RESOURCES</h2>
+               
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
+                <div class=\"about-single\">
+                   <img src='/assets/images/info-box8.png'/>
+                    <h2 class=\"subtitle\">COST EFFECTIVE SOLUTION - FAST AND FLEXIBLE</h2>
+                    
+                </div>
+            </div>
+            <!-- Single About -->
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                   <img src='/assets/images/info-box9.png'/>
+                    <h2 class=\"subtitle\">SINGLE DAY FOR JUMP-START A PROJECT</h2>
+                    
+                </div>
+            </div>
+            
+             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                   <img src='/assets/images/info-box10.png'/>
+                    <h2 class=\"subtitle\">SCHEDULED DELIVERY</h2>
+                   
+                </div>
+            </div>
+            <!-- Single About -->
+           
+        </div>
+        
+        
+         
+            <!-- Single About -->
+            
+            <!-- Single About -->
+           
+        </div>
+        </section>
+        
+
+
+
+
+
+
+
            <section class=\"Material-pricing-table-section section-padding\">
 <div class='container'>
 <div class=\"row\">
