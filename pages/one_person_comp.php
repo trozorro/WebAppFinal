@@ -355,7 +355,7 @@ The One Person Company (OPC) was recently introduced as a strong improvement ove
 
 
 
-require_once "../faq_pages/pvt_ltd_faq.php";
+require_once "../faq_pages/one_person_handler.php";
 
 require_once "../page_elements/compare_design.php";
 
