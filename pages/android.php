@@ -5,6 +5,8 @@
  * Date: 14-02-2019
  * Time: 19:30
  */
+
+$page = "pvt_ltd";
 require_once "../config.php";
 require_once "../header.php";
 
@@ -26,7 +28,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"row\">
 
 <div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\">
-<h1 class=\"section-title\">COMPANY REGISTRATION PROCESS</h1>
+<h1 class=\"section-title\">ANDROID APP DEVELOPMENT</h1>
 </div>
 </div>
 <div class=\"row mt-2 wow animated fadeInUp\" data-wow-delay=\".4s\">
@@ -37,38 +39,59 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 <div class=\"col-md-8\">
-<p>The private limited company registration process is completely online, so you don't even need to leave your home to get your entity registered within 14 working days. At Vakilsearch, we are continuously available to help you understand how to register a private limited company. Company Registration in India can be done through VakilSearch in all major cities, including Hyderabad, Mumbai, and New Delhi, Chennai, Kolkata & all other Indian cities.</p>
-<p>A detailed explanation of the procedure now follows, along with expected timelines and charges involved.</p>
+<p>".$WebName." is the pioneering android app development company that offers professional app development services for Android platform that supports different android devices. Conducting in-depth research and analyzing the requirements of the clients, we design the plan and developing apps that stand out in the Google Play Store.
+
+We give our highest efforts for developing Android apps for our clients. We have certified, highly experienced and creative app developers India having access to a wide range of advanced tools and technologies. We develop customized apps integrating with essential features that turn the app to be a scalable and robust for any device.</p>
 </div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Obtaining DSC and DIN</a>
-<p>Only a single director needs to have a Class-2 Digital Signature Certificate (DSC), which is needed to sign electronic documents. To get one, all you need is a self-attested copy of the director's PAN card and address proof (latest utility bill, passport, driver's license of voter's ID). This can be completed in 2 days.</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Application for Company Name</a>
-<p>You need to now ensure that your name has not already been taken. This can be done by running a company name search. If you are disappointed that a preferred name is taken, do remember that the name of your company doesn't have to be your brand name. However, if you're going to register the brand name, also check if it has already been trademarked at http://www.ipindia.gov.in/. If it has been trademarked, you would need a no-objection certificate from its owner to have it approved as your company's name.</p>
-<p>Secondly, you need to comply with the MCA guidelines. You can do so by ensuring that the name has a unique component and a descriptive component.</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Company Registration Form & MoA & AoA Submission</a>
-<p>Once you have your name, you need to get the Memorandum & Articles of Association approved. Here are all the other documents you'll need in order:</p>
-<p> <ul> <li>Copy of Rental Agreement (along with NOC from owner)/Sale Deed</li> <li>Latest Utility Bill</li> <li>Affidavit from director and shareholders</li> <li>Copy of PAN card, Identity and Address Proof for DIN for 2 directors</li> </ul> </p>
-<p>With these ready, you can submit the company registration form INC-32 (also known as Spice).</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Company Incorporation Certificate</a>
-<p>Once your MoA and AoA are approved, you’re almost there. You can now get your company incorporation certificate by submitting all the above-mentioned documents to the RoC. This can take anywhere from 48 hours to even two weeks. On arrival of the company incorporation certificate, your company is registered.</p>
-</div>
-<div class=\"col-md-8\">
-<a href=\"#\"><i class=\"material-icons mdi mdi-bookmark-outline\"></i>Apply for PAN & TAN & Bank Account</a>
-<p>The moment your company is incorporated, you need to apply for a PAN & TAN with NSDL. It costs under Rs. 200, but will take up to three weeks to get done.</p>
-<p><small><strong>Note:</strong> Always be prepared for a longer wait, particularly if the Registrar of Companies (RoC) has a heavy workload at the time or your proposed company's name is rejected on first attempt.</small></p>
-</div>
+
+
+
 </div>
 </div>
 </div>
 </div>
 </section>
+
+
+
+
+
+        <section class=\"material-tabs-section section-padding\">
+<div class=\"container\">
+<div class=\"row\">
+
+<div class=\"col-md-12 material-title-section wow animated fadeInLeft\" data-wow-delay=\".2s\" >
+<h1 class=\"section-title\">Why hire Capermint Technologies?</h1>
+</div>
+</div>
+<div class=\"row mt-2 wow animated fadeInUp\" data-wow-delay=\".4s\">
+<div class=\"col-md-12\">
+<div class=\"Material-tab-default\">
+
+<!--Registration process section -->
+
+
+<div class=\"col-md-8\">
+<p>As per the personalized demands, we design and develop the apps that meet the business objectives. We deliver the developed apps after testing and confirming the quality of the app. As a leading mobile app development company, we offer android app development services for multiple domains that include Business, E-commerce, Security, Healthcare, Finance, Travel, and Game, Music, Utilities, etc.</p></div>
+
+
+
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
 <!-- Highlight section -->
 <section class=\"Material-about-section section-padding\">
     <div class=\"container\">
@@ -140,126 +163,9 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
         </div>
         </section>
         
- <section  class=\"Material-about-section section-padding\">
-<div class=\"container\">
-<div class=\"row\">
- <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-<h1 class=\"section-title\">Our Process</h1>
-</div>
-
-</div>
-
-<div class=\"row\">
-
-<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
-
-<div class=\"about-single\"><img src=\"/assets/images/ourprocess/1.png\" />
-<p>Upload the Required Documents &amp; Information to our web portal</p>
-</div>
-</div>
-
-<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
-<div class=\"about-single\"><img src=\"/assets/images/ourprocess/2.png\" />
-<p>Choose Package and Pay online with different payments modes available</p>
-</div>
-</div>
-
-<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
-<div class=\"about-single\"><img src=\"/assets/images/ourprocess/3.png\" />
-<p>We will apply for Digital Signature and Director Identification Number of proposed directors</p>
-</div>
-</div>
-
-<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
-<div class=\"about-single\"><img src=\"/assets/images/ourprocess/4.png\" />
-<p>Check for Company&rsquo;s Name availability, apply for Name Approval.</p>
-</div>
-</div>
-
-<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
-<div class=\"about-single\"><img src=\"/assets/images/ourprocess/5.png\" />
-<p>Prepare MOA, AOA and other necessary incorporation documents.</p>
-</div>
-</div>
-
-<div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
-<div class=\"about-single\"><img src=\"/assets/images/ourprocess/6.png\" />
-<p>File incorporation documents &amp; obtain Certificate of Incorporation, PAN &amp; TAN.</p>
-</div>
-</div>
+ 
 
 
-</div>
-
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class=\"Material-about-section section-padding\">
-    <div class=\"container\">
-    
-    <div class=\"row\">
-            <!-- Section Title -->
-            <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">DOCUMENTS REQUIRED</h1>
-            </div>
-        </div>
-    
-        <div class=\"row\">
-            <!-- Single About -->
-            ";
-echo"<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-account-card-details\"></i>
-                    <h2 class=\"subtitle\">Identity Proof</h2>
-                    <p>Aaadhar Card , Driving License , Election Id , Card Passport</p>
-                </div>
-            </div>";
-echo "
-
-
-<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-account\"></i>
-                    <h2 class=\"subtitle\">Passport Size Photograph</h2>
-                    
-                </div>
-            </div>
-
-
-<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-map-marker\"></i>
-                    <h2 class=\"subtitle\">Address Proof of Business</h2>
-                    <p>Electricity Bill , Rent Agreement + NOC</p>
-                </div>
-            </div>";
-
-echo "  
-  
-  
-  
-  
-  <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-file-document-box\"></i>
-                    <h2 class=\"subtitle\">PAN Card</h2>
-                    
-                </div>
-            </div>
-            
-            
-            
-            
-           </div> 
-           
-           </div>
-           </section>
-           
-           
            <section class=\"Material-pricing-table-section section-padding\">
 <div class='container'>
 <div class=\"row\">
@@ -372,11 +278,9 @@ echo "
 
 
 
-$faq = "pvt_ltd";
+
 
 require_once "../faq_pages/faq_handler.php";
-
-require_once "../page_elements/compare_design.php";
 
 require_once "../page_elements/contact_form_design.php";
 
