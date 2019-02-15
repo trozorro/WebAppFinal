@@ -127,7 +127,7 @@ echo "<!DOCTYPE html>
                 </a>
                 <ul class=\"dropdown\">
                     <li>
-                        <a href=\"#\">Private Limited Company</a>
+                        <a href=\"pages/pvt_ltd.php\">Private Limited Company</a>
                     </li>
                     <li>
                         <a href=\"#\">Limited Liability Psartnership</a>
