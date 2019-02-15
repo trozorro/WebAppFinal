@@ -98,33 +98,43 @@ We plan and design our web development packages as per the requirements of the c
     <div class=\"row\">
             <!-- Section Title -->
             <div class=\"col-md-12 wow animated fadeInLeft\" data-wow-delay=\".2s\">
-                <h1 class=\"section-title\">What we offer</h1>
+                <h1 class=\"section-title\">Why ".$WebName."?</h1>
             </div>
         </div>
     
+    
+    
         <div class=\"row\">
             <!-- Single About -->
-            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-coffee\"></i>
-                    <h2 class=\"subtitle\">Focused Quality</h2>
-                    <p>".$WebName." is dedicated to deliver best quality, value and service to meet our client's need. Quality is a attribute that we appreciate and If you are in search for high-quality IT services, that's where our expertise is at your fingertips.</p>
+                   <img src='/assets/images/info-box7.png'/>
+                    <h2 class=\"subtitle\">ON DEMAND DEVOTED RESOURCES</h2>
+               
                 </div>
             </div>
             <!-- Single About -->
-            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-cart\"></i>
-                    <h2 class=\"subtitle\">Accurate Rates</h2>
-                    <p>".$WebName." team always believe in delivering outstanding solution for small to huge projects. We have tailor-made pricing list as per client requirements. At ".$WebName.", we believe in client's satisfaction when it comes to work delivery.</p>
+                   <img src='/assets/images/info-box8.png'/>
+                    <h2 class=\"subtitle\">COST EFFECTIVE SOLUTION - FAST AND FLEXIBLE</h2>
+                    
                 </div>
             </div>
             <!-- Single About -->
-            <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
+            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-rocket\"></i>
-                    <h2 class=\"subtitle\">Robust Solutions</h2>
-                    <p>We always deliver extra ordinary services to our global clients and we take care of everything related to IT solutions and customer queries. Our such qualities make us different from the competitors.</p>
+                   <img src='/assets/images/info-box9.png'/>
+                    <h2 class=\"subtitle\">SINGLE DAY FOR JUMP-START A PROJECT</h2>
+                    
+                </div>
+            </div>
+            
+             <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".4s\">
+                <div class=\"about-single\">
+                   <img src='/assets/images/info-box10.png'/>
+                    <h2 class=\"subtitle\">SCHEDULED DELIVERY</h2>
+                   
                 </div>
             </div>
             <!-- Single About -->
