@@ -80,7 +80,7 @@ echo "<!DOCTYPE html>
                         </div>
                     </li>
                     <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link \" href=\"/pages/android_page.php\">
+                        <a class=\"nav-link \" href=\"/pages/android.php\">
                             Android Development
                         </a>
 
@@ -145,7 +145,7 @@ echo "<!DOCTYPE html>
                 </ul>
             </li>
             <li>
-                <a href=\"/pages/android_page.php\">
+                <a href=\"/pages/android.php\">
                     Android Development
                 </a>
 
