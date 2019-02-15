@@ -210,31 +210,42 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
     
         <div class=\"row\">
             <!-- Single About -->
-            <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+            ";
+            echo"<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+                <div class=\"about-single\">
+                    <i class=\"material-icons mdi mdi-account-card-details\"></i>
+                    <h2 class=\"subtitle\">Identity Proof</h2>
+                    <p>Aaadhar Card , Driving License , Election Id , Card Passport</p>
+                </div>
+            </div>";
+            echo "
+
+
+<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-account\"></i>
                     <h2 class=\"subtitle\">Passport Size Photograph</h2>
                     
                 </div>
-            </div>";
-            echo"<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
-                <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-account-card-details\"></i>
-                    <h2 class=\"subtitle\">Identity Proof</h2>
-                    <p>Aaadhar Card,Driving License,Election Id,Card Passport</p>
-                </div>
-            </div>";
-            echo "<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+            </div>
+
+
+<div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-map-marker\"></i>
                     <h2 class=\"subtitle\">Address Proof of Business</h2>
-                    <p>Electricity Bill,Rent Agreement + NOC</p>
+                    <p>Electricity Bill , Rent Agreement + NOC</p>
                 </div>
             </div>";
             
-          echo "  <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
+          echo "  
+  
+  
+  
+  
+  <div class=\"col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
-                    <i class=\"material-icons mdi mdi-credit-card\"></i>
+                    <i class=\"material-icons mdi mdi-file-document-box\"></i>
                     <h2 class=\"subtitle\">PAN Card</h2>
                     
                 </div>
