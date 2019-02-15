@@ -85,24 +85,24 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Concept</h2>
-                    <p>Partnership firm is a business form in which 2 or more individuals can join hands to do business.</p>
+                    <h2 class=\"subtitle\">Easy incorporation</h2>
+                    <p>Sole Proprietorship is the easiest form of business entity in the terms of procedure of establishment.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Easy Formation</h2>
-                    <p>Partnership firm can be easily & quickly registered in comparision to other form of business.</p>
+                    <h2 class=\"subtitle\">Minimal cost</h2>
+                    <p>The cost involved in the formation of a sole proprietary firm is very less as compared to other forms of business.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Low Cost Registration</h2>
-                    <p>As comparison to other business form, cost of registering partnership firm is very low.</p>
+                    <h2 class=\"subtitle\">Lesser compliances</h2>
+                    <p>As compared to other business forms, there are fewer legal compliances with respect to incorporation, operation and taxation.</p>
                 </div>
             </div>
             <!-- Single About -->
@@ -115,8 +115,8 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Tax Benefit</h2>
-                    <p>More Tax Saving as compare to sole proprietor business form.</p>
+                    <h2 class=\"subtitle\">Independent control</h2>
+                    <p>As Sole Proprietor is the single owner of his business, he surely has independent control over his operations.</p>
                 </div>
             </div>
             <!-- Single About -->
