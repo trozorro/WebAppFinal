@@ -88,13 +88,13 @@ if($page == "sole_prop"){
    
 echo   "<td class=\"".$class1."\">Start-ups and growing companies</td> 
    
-   <td class=".$class2.">Professional services firms</td> 
+   <td class=\"".$class2."\">Professional services firms</td> 
    
-   <td class=".$class3.">Sole promoters</td>
+   <td class=\"".$class3."\">Sole promoters</td>
    
-    <td class=".$class4.">Home businesses</td>
+    <td class=\"".$class4."\">Home businesses</td>
     
-    <td class=".$class5.">Small traders and manufacturers</td> 
+    <td class=\"".$class5."\">Small traders and manufacturers</td> 
     
     </tr> 
     
