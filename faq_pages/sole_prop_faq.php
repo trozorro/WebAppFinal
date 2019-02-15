@@ -21,7 +21,7 @@ echo "
 
 </div>";
 
-$handle = fopen("../faq_pages/faq_data/part_firm_faq", "r");
+$handle = fopen("../faq_pages/faq_data/sole_prop_faq.faq", "r");
 if ($handle) {
 
     $count = 1;
