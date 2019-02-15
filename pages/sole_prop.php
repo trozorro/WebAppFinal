@@ -123,16 +123,16 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Sharing of Risk</h2>
-                    <p>Individuals having same business goal can form and share risk & rewards.</p>
+                    <h2 class=\"subtitle\">Single Promoter</h2>
+                    <p>This is the only form of business entity that can be promoted by a single individual.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Compliances & Disclosure</h2>
-                    <p>Least compliance & disclosure required as compare to other business form.</p>
+                    <h2 class=\"subtitle\">No corporate tax liability </h2>
+                    <p>As per the direct tax laws of India, the sole proprietary entities are not liable to pay flat corporate profit tax, unlike other business forms.</p>
                 </div>
             </div>
             <!-- Single About -->
@@ -160,31 +160,31 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/2.png\" />
-<p>Choose Package and Pay online with different payments modes availablee</p>
+<p>Choose the appropriate Package and Pay online with various payments modes available.</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/3.png\" />
-<p>We professionally draft and share the deed for your confirmation</p>
+<p>On placing the order, your application will be assigned to one of our dedicated professionals.</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/4.png\" />
-<p>Discussion over the telephone with legal expert.</p>
+<p>One of our professional will prepare the required form for the formation of the entity.</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/5.png\" />
-<p>Help in execute partnership deed on stamp paper.</p>
+<p>Obtain government registration certificate for your business entity.</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/6.png\" />
-<p>Apply PAN and TAN of Partnership firm.</p>
+<p>Registration certificate shall be provided to you over the mail.</p>
 </div>
 </div>
 
@@ -372,7 +372,7 @@ echo "
 
 
 
-require_once "../faq_pages/part_firm_faq.php";
+require_once "../faq_pages/sole_prop_faq.php";
 
 require_once "../page_elements/compare_design.php";
 
