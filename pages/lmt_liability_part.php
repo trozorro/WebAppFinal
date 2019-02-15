@@ -85,24 +85,24 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Limited Liability</h2>
-                    <p>Shareholder enjoys limited liability to the extent of capital invested. Shareholder's personal assets protected in the event of the company's insolvency.</p>
+                    <h2 class=\"subtitle\">What is LLP ?</h2>
+                    <p>Limited Liability Partnership is a separate legal entity from its partners and liability of each partner is limited to their contribution.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Separation of Mangement & Shareholders</h2>
-                    <p>Management & shareholders can be separated. A shareholder can invest the fund in fruitful business without managing & Management can operate their business without frequent interruption of investors.</p>
+                    <h2 class=\"subtitle\">Benefits</h2>
+                    <p>LLP has perpetual succession and contains salient features of Company and Partnership.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Separate Legal Entity</h2>
-                    <p>A company is a Separate legal entity from its Owners and Management in the eyes of law.</p>
+                    <h2 class=\"subtitle\">Formation & Cost</h2>
+                    <p>Easy to form LLP and registration cost is low in comparison to company formation.</p>
                 </div>
             </div>
             <!-- Single About -->
@@ -115,24 +115,24 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Easy Equity Funding</h2>
-                    <p>Startups businesses can easily raise funds from investors on an equity basis.</p>
+                    <h2 class=\"subtitle\">Compliance & Disclosure</h2>
+                    <p>LLP requires less disclosure and compliance requirement is less as compare to other entities.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".3s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Taxation</h2>
-                    <p>Every Pvt Ltd Company enjoys for recently announced start-up tax exemption, if meets eligibility criteria.</p>
+                    <h2 class=\"subtitle\">Audit Requirement</h2>
+                    <p>No mandatory requirement of statutory audit upto a certain limit i.e. Turnover or Contribution.</p>
                 </div>
             </div>
             <!-- Single About -->
             <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".4s\">
                 <div class=\"about-single\">
                     <i class=\"material-icons mdi mdi-pen\"></i>
-                    <h2 class=\"subtitle\">Perpetual Succession</h2>
-                    <p>A business of the Company will not affect if there is any change in the ownership of the company.</p>
+                    <h2 class=\"subtitle\">Taxation</h2>
+                    <p>No income tax charegable on profit distribution in partner’s hand.</p>
                 </div>
             </div>
             <!-- Single About -->
@@ -154,7 +154,7 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/1.png\" />
-<p>Upload the Required Documents &amp; Information to our web portal</p>
+<p>Upload the Required Documents & Information to our web portal</p>
 </div>
 </div>
 
@@ -166,25 +166,25 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/3.png\" />
-<p>We will apply for Digital Signature and Director Identification Number of proposed directors</p>
+<p>We will apply for Digital Signature and Director Identification Number of proposed partners</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/4.png\" />
-<p>Check for Company&rsquo;s Name availability, apply for Name Approval.</p>
+<p>Check for LLP’s Name availability, apply for LLP Name Approval.</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/5.png\" />
-<p>Prepare MOA, AOA and other necessary incorporation documents.</p>
+<p>Once name approved, file Incorporation documents.</p>
 </div>
 </div>
 
 <div class=\"col-md-6 col-lg-12 col-xl-4 wow animated fadeInUp\" data-wow-delay=\".2s\">
 <div class=\"about-single\"><img src=\"/assets/images/ourprocess/6.png\" />
-<p>File incorporation documents &amp; obtain Certificate of Incorporation, PAN &amp; TAN.</p>
+<p>Thereafter, obtain Certificate of Incorporation, apply for PAN &TAN.</p>
 </div>
 </div>
 
@@ -372,7 +372,7 @@ echo "
 
 
 
-require_once "../faq_pages/pvt_ltd_faq.php";
+require_once "../faq_pages/lmt_liability_faq.php";
 
 require_once "../page_elements/compare_design.php";
 
