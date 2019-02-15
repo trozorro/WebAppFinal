@@ -45,50 +45,150 @@ echo "<section class=\"Material-about-section section-padding\">
    
    
    <tr> <td>
-   <strong>Recommended For</strong></td> <td class=\"tablehighlightTD tablehighlightTopTDBorder\">Start-ups and growing companies</td> 
-   <td class=greyBg>Professional services firms</td> <td class=greyBg>Sole promoters</td>
-    <td class=greyBg>Home businesses</td>
-    <td class=greyBg>Small traders and manufacturers</td> </tr> 
+   <strong>Recommended For</strong></td> ";
+
+$page="pvt_ltd";
+
+$class1 = "greyBg";
+$class2 = "greyBg";
+$class3 = "greyBg";
+$class4 = "greyBg";
+$class5 = "greyBg";
+
+if($page == "pvt_ltd"){
+
+    $class1 = "tablehighlightTD tablehighlightTopTDBorder";
+}
+if($page == "lmt_liability"){
+
+    $class2 = "tablehighlightTD tablehighlightTopTDBorder";
+}
+if($page == "one_person"){
+
+    $class3 = "tablehighlightTD tablehighlightTopTDBorder";
+}
+if($page == "part_firm"){
+
+    $class4 = "tablehighlightTD tablehighlightTopTDBorder";
+}
+if($page == "sole_prop"){
+
+    $class5 = "tablehighlightTD tablehighlightTopTDBorder";
+}
+   
+echo   "<td class=\"".$class1."\">Start-ups and growing companies</td> 
+   
+   <td class=".$class2.">Professional services firms</td> 
+   
+   <td class=".$class3.">Sole promoters</td>
+   
+    <td class=".$class4.">Home businesses</td>
+    
+    <td class=".$class5.">Small traders and manufacturers</td> 
+    
+    </tr> 
     
     
     
-    <tr> <td>
+    <tr> 
+    
+    <td>
     <strong>Ease of Accommodating Investment</strong></td>
-     <td class=tablehighlightTD>Very easy to accommodate</td> <td class=greyBg>Possible, but unlikely</td> 
-     <td class=greyBg>Possible, but severely unlikely</td> <td class=greyBg>Almost impossible</td>
-      <td class=greyBg>Impossible</td> 
+    
+     <td class=".$class1.">Very easy to accommodate</td> 
+     
+     <td class=".$class2.">Possible, but unlikely</td> 
+     
+     <td class=".$class3.">Possible, but severely unlikely</td> 
+     
+     <td class=".$class4.">Almost impossible</td>
+     
+      <td class=".$class5.">Impossible</td> 
+      
      </tr>
       
       
       
       
-      <tr> <td><strong>Limited Liability Protection</strong></td>
-      <td class=tablehighlightTD>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>No</td>
-       <td class=greyBg>No</td> </tr> 
+      <tr> 
+      
+      <td>
+      
+      <strong>Limited Liability Protection</strong>
+      
+      </td>
+      
+      <td class=".$class1.">Yes</td>
+       
+       <td class=".$class2.">Yes</td>
+        
+        <td class=".$class3.">Yes</td>
+         
+         <td class=".$class4.">No</td>
+      
+       <td class=".$class5.">No</td> 
+       
+       </tr> 
        
        
        
        
        
-       <tr> <td><strong>Tax Advantages</strong></td> 
-       <td class=tablehighlightTD>Few benefits</td> 
-       <td class=greyBg>Most efficient</td> <td class=greyBg>Few benefits</td> <td class=greyBg>Minimal</td> 
-       <td class=greyBg>Minimal</td> </tr> 
+       <tr>
+        
+        <td><strong>Tax Advantages</strong></td> 
+        
+       <td class=".$class1.">Few benefits</td> 
+       
+       <td class=".$class2.">Most efficient</td> 
+       
+       <td class=".$class3.">Few benefits</td> 
+       
+       <td class=".$class4.">Minimal</td> 
+       
+       <td class=".$class5.">Minimal</td> 
+       
+       </tr> 
        
        
        
        
-       <tr> <td><strong>Perpetual Existence</strong></td>
-        <td class=tablehighlightTD>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>Yes</td> <td class=greyBg>No</td> 
-        <td class=greyBg>No</td> </tr>
+       <tr> 
+       
+       <td><strong>Perpetual Existence</strong></td>
+       
+        <td class=".$class1.">Yes</td>
+         
+         <td class=".$class2.">Yes</td> 
+         
+         <td class=".$class3.">Yes</td>
+          
+          <td class=".$class4.">No</td> 
+         
+        <td class=".$class5.">No</td> 
+        
+        </tr>
          
          
          
          
          
-         <tr> <td><strong>Statutory Compliances</strong></td>
-         <td class=tablehighlightTD>High</td> <td class=greyBg>Low</td> <td class=greyBg>High</td> <td class=greyBg>Minimal</td> 
-         <td class=greyBg>Minimal</td> </tr>";
+         <tr> 
+         
+         <td><strong>Statutory Compliances</strong></td>
+         
+         <td class=".$class1.">High</td> 
+         
+         <td class=".$class2.">Low</td>
+          
+          
+          <td class=".$class3.">High</td>
+           
+           <td class=".$class4.">Minimal</td> 
+         
+         <td class=".$class5.">Minimal</td>
+          
+          </tr>";
           
           
           
@@ -97,7 +197,7 @@ echo "<section class=\"Material-about-section section-padding\">
    
    <td></td> ";
 
-       $page="pvt_ltd";
+
    
    if($page=="pvt_ltd")
    echo "<td class=tablehighlightBottomTDBorder></td>";
