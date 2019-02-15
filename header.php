@@ -74,8 +74,8 @@ echo "<!DOCTYPE html>
                             <a class=\"dropdown-item\" href=\"/pages/pvt_ltd.php\">Private Limited Company</a>
                             <a class=\"dropdown-item\" href=\"/pages/lmt_liability_part.php\">Limited Liability Partnership</a>
                             <a class=\"dropdown-item\" href=\"#\">One Person company</a>
-                            <a class=\"dropdown-item\" href=\"/pages/part_firm.php\">Partnership Firm</a>
-                            <a class=\"dropdown-item\" href=\"/pages/sole_prop.php\">Sole Proprietorship</a>
+                            <a class=\"dropdown-item\" href=\"#\">Partnership Firm</a>
+                            <a class=\"dropdown-item\" href=\"#\">Sole Proprietorship</a>
 
                         </div>
                     </li>
@@ -136,10 +136,10 @@ echo "<!DOCTYPE html>
                         <a href=\"#\">One Person company</a>
                     </li>
                     <li>
-                        <a href=\"/pages/part_firm.php\">Partnership Firm</a>
+                        <a href=\"#\">Partnership Firm</a>
                     </li>
                     <li>
-                        <a href=\"/pages/sole_prop.php\">Sole Proprietorship</a>
+                        <a href=\"#\">Sole Proprietorship</a>
                     </li>
 
                 </ul>
