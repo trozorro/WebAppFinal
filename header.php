@@ -80,23 +80,30 @@ echo "<!DOCTYPE html>
                         </div>
                     </li>
                     <li class=\"nav-item dropdown\">
+              <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+               Annual Compliances
+             </a>
+              <div class=\"dropdown-menu\">
+              <a class=\"dropdown-item\" href=\"/pages/Ac_pvt_ltd.php\">Private Limited Company </a>
+              <a class=\"dropdown-item\" href=\"/pages/Ac_lmt_liability_part.php\">Limited Liability Partnership</a>
+              </div>
+              </li>
+                    <li class=\"nav-item dropdown\">
                         <a class=\"nav-link \" href=\"/pages/android.php\">
                             Android Development
                         </a>
 
                     </li>
-                    <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link \" href=\"/pages/web_dev.php\" >
-                            Web Development
-                        </a>
-
-                    </li>
-                    <li class=\"nav-item dropdown\">
-                        <a class=\"nav-link\" href=\"#\">
-                            Web Hosting
-                        </a>
-
-                    </li>
+                     <li class=\"nav-item dropdown\">
+              <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
+               Web Solutions
+             </a>
+              <div class=\"dropdown-menu\">
+              <a class=\"dropdown-item\" href=\"/pages/web_dev.php\">Web Development</a>
+              <a class=\"dropdown-item\" href=\"#\">Web Hosting</a>
+              </div>
+              </li>
+               
                     <li class=\"nav-item dropdown\">
                         <a class=\"nav-link\" href=\"/pages/contact.php\" >
                             Contact Us
@@ -144,6 +151,24 @@ echo "<!DOCTYPE html>
 
                 </ul>
             </li>
+            
+             <li>
+                <a href=\"#\">
+                    Annual Compliances
+                </a>
+                <ul class=\"dropdown\">
+                    <li>
+                        <a href=\"/pages/Ac_pvt_ltd.php\">Private Limited Compliances</a>
+                    </li>
+                    <li>
+                        <a href=\"/pages/Ac_lmt_liability_part.php\">Limited Liability Partnership</a>
+                    </li>
+                </ul>
+            </li>
+            
+            
+            
+            
             <li>
                 <a href=\"/pages/android.php\">
                     Android Development
@@ -151,17 +176,19 @@ echo "<!DOCTYPE html>
 
             </li>
             <li>
-                <a href=\"/pages/web_dev.php\">
-                    Web Development
-                </a>
-
-            </li>
-            <li>
                 <a href=\"#\">
-                    Web Hosting
+                    Web Solutions
                 </a>
-
+                <ul class=\"dropdown\">
+                    <li>
+                        <a href=\"/pages/web_dev.php\">Web Development</a>
+                    </li>
+                    <li>
+                        <a href=\"#\">Web Hosting</a>
+                    </li>
+                </ul>
             </li>
+         
             <li>
                 <a href=\"/pages/contact.php\">
                     Contact Us

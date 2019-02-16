@@ -112,12 +112,12 @@ echo "
             <!--Second column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 recent-widget\">
                 <h3 class=\"footer-title\">Start A Business</h3>
-                <p><a href=\"#\" class=\"dark-grey-text\">Private Limited Company</a></p>
+                <p><a href=\"/pages/pvt_ltd.php\" class=\"dark-grey-text\">Private Limited Company</a></p>
                 
-                <p><a href=\"#\" class=\"dark-grey-text\">Limited Liability Partership</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">One Person Company</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Partnership Firm</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Proprietorship Firm</a></p>
+                <p><a href=\"/pages/lmt_liability_part.php\" class=\"dark-grey-text\">Limited Liability Partership</a></p>
+                <p><a href=\"/pages/one_person_comp.php\" class=\"dark-grey-text\">One Person Company</a></p>
+                <p><a href=\"/pages/part_firm.php\" class=\"dark-grey-text\">Partnership Firm</a></p>
+                <p><a href=\"/pages/sole_prop.php\" class=\"dark-grey-text\">Sole Proprietorship</a></p>
             </div>
             <!--/.Second column-->
             
@@ -137,9 +137,9 @@ echo "
             <!--fourth-->
              <div class=\"col-md-6 col-lg-3 col-xl-3 recent-widget\">
                 <h3 class=\"footer-title\">Technical Services</h3>
-                <p><a href=\"#\" class=\"dark-grey-text\">Web Development</a></p>
+                <p><a href=\"/pages/web_dev.php\" class=\"dark-grey-text\">Web Development</a></p>
                
-                <p><a href=\"#\" class=\"dark-grey-text\">Android App Development</a></p>
+                <p><a href=\"/pages/android.php\" class=\"dark-grey-text\">Android App Development</a></p>
                 <p><a href=\"#\" class=\"dark-grey-text\">Web Hosting </a></p>
                 <p><a href=\"#\" class=\"dark-grey-text\">Desktop App Development </a></p>
                 <p><a href=\"#\" class=\"dark-grey-text\">Cryptography </a></p>
