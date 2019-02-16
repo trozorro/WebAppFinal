@@ -100,7 +100,7 @@ echo "<!DOCTYPE html>
              </a>
               <div class=\"dropdown-menu\">
               <a class=\"dropdown-item\" href=\"/pages/web_dev.php\">Web Development</a>
-              <a class=\"dropdown-item\" href=\"#\">Web Hosting</a>
+              <a class=\"dropdown-item\" href=\"/pages/web_host.php\">Web Hosting</a>
               </div>
               </li>
                
@@ -184,7 +184,7 @@ echo "<!DOCTYPE html>
                         <a href=\"/pages/web_dev.php\">Web Development</a>
                     </li>
                     <li>
-                        <a href=\"#\">Web Hosting</a>
+                        <a href=\"/pages/web_host.php\">Web Hosting</a>
                     </li>
                 </ul>
             </li>

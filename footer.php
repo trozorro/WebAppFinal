@@ -88,7 +88,7 @@ echo "
             <!--First column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 footer-contact-widget\">
                 <h3 class=\"footer-title\">TROZORRO</h3>
-                <p>By continuing past this page, you agree to our<a href='#'> Terms of Service</a>,<a href='#'> Cookie Policy</a>,<a href='#'> Privacy Policy</a>,<a href='#'> Refund Policy</a> and Content Policies.</p>
+                <p>By continuing past this page, you agree to our<a href='/policies/terms_of_service.php'> Terms of Service</a>,<a href='/policies/cookie_policy.php'> Cookie Policy</a>,<a href='/policies/privacy_policy.php'> Privacy Policy</a>,<a href='/policies/refund_policy.php'> Refund Policy</a> and Content Policies.</p>
                 <ul>
                     <li>
                         <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
@@ -140,9 +140,8 @@ echo "
                 <p><a href=\"/pages/web_dev.php\" class=\"dark-grey-text\">Web Development</a></p>
                
                 <p><a href=\"/pages/android.php\" class=\"dark-grey-text\">Android App Development</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Web Hosting </a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Desktop App Development </a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Cryptography </a></p>
+                <p><a href=\"/pages/web_host.php\" class=\"dark-grey-text\">Web Hosting </a></p>
+                
             </div>
             <!--/.fourth-->
 
