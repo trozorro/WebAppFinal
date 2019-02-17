@@ -88,7 +88,7 @@ echo "
             <!--First column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 footer-contact-widget\">
                 <h3 class=\"footer-title\">TROZORRO</h3>
-                <p>By continuing past this page, you agree to our<a href='/policies/terms_of_service.php'> Terms of Service</a>,<a href='/policies/cookie_policy.php'> Cookie Policy</a>,<a href='/policies/privacy_policy.php'> Privacy Policy</a>,<a href='/policies/refund_policy.php'> Refund Policy</a> and Content Policies.</p>
+                <p>This a desc</p>
                 <ul>
                     <li>
                         <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
@@ -124,13 +124,12 @@ echo "
             
              <!--third column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 recent-widget\">
-                <h3 class=\"footer-title\">Trademark & Copyright</h3>
-                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Registration</a></p>
+                <h3 class=\"footer-title\">Privacy and Policy</h3>
+                <p><a href=\"#\" class=\"dark-grey-text\">Terms of Service</a></p>
                
-                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Objection</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Assignment </a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Trademark Renewal</a></p>
-                <p><a href=\"#\" class=\"dark-grey-text\">Copyright registration</a></p>
+                <p><a href=\"/policies/cookie_policy.php\" class=\"dark-grey-text\">Cookie Policy</a></p>
+                <p><a href=\"/policies/privacy_policy.php\" class=\"dark-grey-text\">Privacy Policy</a></p>
+                <p><a href=\"/policies/refund_policy.php\" class=\"dark-grey-text\">Refund Policy</a></p>
             </div>
             <!--/.third column-->
 

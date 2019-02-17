@@ -9,15 +9,20 @@ echo "
    
     <table style\" width:100%; \" border=\"10 px\" cellspacing=\"10 px\">
     <tr class=\"carousel-indicators\">
-    <td  class=\"slider\" data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:30%;height:70px; margin:0 5px 0 0; border-radius:5px;  padding:5px 20px 10px 20px ; \" ><span style=\" font-size:20px; \">Start Your Business</span><br>Lowest Price in India
+    <td  class=\"slider\" data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:25%;height:70px; margin:0 5px 0 0; border-radius:5px;  padding:5px 20px 10px 20px ; \" ><span style=\" font-size:20px; \">Start Your Business</span><br>Lowest Price in India
 
 
 </td>
-    <td  class=\"slider\" data-target=\"#main-slide\" data-slide-to=\"1\"  style=\"width:30%;height:70px;   margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px;  \" ><span style=\" font-size:20px; \"  >Register Your Brand</span><br>Guard against infringement
+    <td  class=\"slider\" data-target=\"#main-slide\" data-slide-to=\"1\"  style=\"width:25%;height:70px;   margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px;  \" ><span style=\" font-size:20px; \"  >Register Your Brand</span><br>Guard against infringement
 
 
 </td>
-    <td  class=\"slider\"data-target=\"#main-slide\" data-slide-to=\"2\" style=\"width:30%;height:70px;   margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px; \" ><span style=\" font-size:20px; \" >Business Plan Pitch</span><br>Impress your investors
+    <td  class=\"slider\"data-target=\"#main-slide\" data-slide-to=\"2\" style=\"width:25%;height:70px;   margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px; \" ><span style=\" font-size:20px; \" >Business Plan Pitch</span><br>Impress your investors
+
+
+</td>
+   
+   <td  class=\"slider\"data-target=\"#main-slide\" data-slide-to=\"3\" style=\"width:25%;height:70px;   margin:0 5px 0 0;  border-radius:5px; padding:5px 20px 10px 20px; \" ><span style=\" font-size:20px; \" >Startup Solutions</span><br>Impress your investors
 
 
 </td>
@@ -30,6 +35,8 @@ echo "
     <td  padding = '50px' data-target=\"#main-slide\" data-slide-to=\"0\"  style=\"width:30%;height:5px; background-color:red; margin:0 5px 0 0; border-radius:5px; \"></td>
     <td style=\"width:30%;height:5x;  background-color:orange;  margin:0 5px 0 0;  border-radius:5px;  \"></td>
     <td   style=\"width:30%;height:5px;   background-color:blue; margin:0 5px 0 0;  border-radius:5px;  \"></td>
+    
+    <td   style=\"width:30%;height:5px;   background-color:green; margin:0 5px 0 0;  border-radius:5px;  \"></td>
    
     </tr>
     
@@ -76,6 +83,22 @@ crafted by experts</h5>
                 <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i>Explore</a>
             </div>
         </div>
+
+
+
+<div class=\"carousel-item\">
+            <img class=\"d-block w-100\" src=\"assets/images/slider/slider-bg3.jpg\" alt=\"Third slide\">
+            <div class=\"carousel-caption d-md-block\">
+                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".6s\">Business Plan</h1>
+                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".8s\">Get the strategic business plan 
+crafted by experts</h5>
+                <a href=\"javascript:void(0)\" class=\"animated fadeInUp wow btn btn-common\" data-wow-delay=\".8s\"><i class=\"material-icons mdi mdi-lightbulb-outline\"></i>Explore</a>
+            </div>
+        </div>
+
+
+
+
     </div>
     <a class=\"carousel-control-prev\" href=\"#main-slide\" role=\"button\" data-slide=\"prev\">
         <span class=\"carousel-control\" aria-hidden=\"true\"><i class=\"mdi mdi-arrow-left\" data-ripple-color=\"#F0F0F0\"></i></span>
