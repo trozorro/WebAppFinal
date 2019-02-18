@@ -10,17 +10,76 @@ $page = "pvt_ltd";
 require_once "../config.php";
 require_once "../header.php";
 
-echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
-   
-    <div class=\"carousel-inner\">
-        <div class=\"carousel-item active\">
-            <img class=\"d-block w-100\" src=\"/assets/images/slider/slider-bg1.jpg\" alt=\"First slide\">
-            <div class=\"carousel-caption d-md-block\">
-                <h1 class=\"animated wow fadeInDown hero-heading\" data-wow-delay=\".4s\">Private Limited Company</h1>
-                <h5 class=\"animated fadeInUp wow hero-sub-heading\" data-wow-delay=\".6s\">We help you to register your private limited company within 14 working days while you sitting at home. .</h5>
-                <!--Btns here-->
+echo "
+
+<style>
+
+.ui-form-01{max-width:280px;margin:auto;display:block;margin-top:40px;overflow:auto;}
+.ui-form-01-wraper{background:#272b37;background-size:100% 100%;padding:10px 15px;text-align:center;color:#fff;box-shadow:0px 0px 18px rgba(0,0,0,.5);}
+.ui-form-01-wraper p{font-size:18px;font-weight:100;margin-bottom:20px;font-size:16px;color:#fcc813}
+.ui-form-01-wraper p span{margin-bottom:0;display:block;}
+.ui-form-01 form{display:block;position:relative;}
+.ui-form-01 button:hover{background:#ffffff;color:#4c4c4c;border-bottom:2px solid #4c4c4c;}
+.input-icon{margin-bottom:15px;position:relative;overflow:hidden}
+.ui-form-01 input{width:100%;height:35px;padding:10px;font-size:13.5px;font-weight:600;color:#222;border-radius:2px;border:1px solid #4c4c4c;background:#fff;overflow:hidden;}
+.card-back .ui-form-01-wraper{box-shadow:none !important;}
+.card-back .ui-form-01{margin-top:15px;}
+.input-icon{margin-bottom:15px;position:relative;overflow:hidden}
+.ui-form-01 input{width:100%;height:35px;padding:10px;font-size:13.5px;font-weight:600;color:#222;border-radius:2px;border:1px solid #4c4c4c;background:#fff;overflow:hidden;}
+.input-icon i{color:#4c4c4c;position:absolute;top:0;right:0;font-size:20px;bottom:0;padding:6px;transition:all 300ms linear;max-height:34px;}
+.input-icon input:focus ~ i{color:#ffffff;font-size:20px;background:#4c4c4c;}
+.template-header-01 img{margin:auto;}
+.template-header-01 {
+    margin-bottom: 40px;
+}
+.template-header-01-box{border:1px solid #ccc;padding:15px;text-align:center;}
+.template-header-01-box h4{background:#fcc813;margin:-15px -15px 15px -15px;padding:15px 0;}
+.template-header-01-box input{width:100%;margin-bottom:10px;height:36px;border:1px solid #ccc;padding:0 10px;border-radius:1px;}
+.template-header-01-box button{margin:0 auto;padding:8px 23px;}
+.template-header-01{background:rgba(212,228,239,1);background:-moz-linear-gradient(left, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);background:-webkit-gradient(left top, right top, color-stop(0%, rgba(212,228,239,1)), color-stop(100%, rgba(134,174,204,1)));background:-webkit-linear-gradient(left, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);background:-o-linear-gradient(left, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);background:-ms-linear-gradient(left, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);background:linear-gradient(to right, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d4e4ef', endColorstr='#86aecc', GradientType=1);padding-top:15px;}
+.template-header-02-box{padding:15px;border:1px solid transparent;margin-top:30%;text-align:center;box-shadow:0px 0px 11px rgba(0,0,0,.5);}
+.marginT20{margin-top:20px;}
+.img-responsive{display:block;max-width:100%;height:auto}
+</style>";
+
+echo "<section class=\"template-header-01\" id=\"home\" style=\"margin-top: 15px;\">
+    <div class=\"container\">
+        <div class=\"row\">";
+           echo "<div class=\"col-sm-4\">
+			    <div class=\"template-header-02-box\" >
+                    <h1>Private Limited Company</h1>
+                    <p class=\"marginT20\">We help you to register your private limited company within 14 working days while you sitting at home. Call us for inquiry at 8881069069</p>                </div>
+               
+            </div>
+            <div class=\"col-sm-4\" style=\"margin-top: 15px; padding-top: 15px;\">
+                <img src=\"https://www.e-startupindia.com/images/596cc267edef31500299880.png\" class=\"img-responsive\">
+            </div>
+            <div class=\"col-sm-4\">
+                                    <div class=\"ui-form-01\">                   
+                    <form method=\"post\" name=\"frmHeaderSection\" action=\"\">
+                         <div class=\"ui-form-01-wraper\">
+                            <p><a>Get Inbox Now<br> Documents Required for Company Incorporation</a></p>
+                            <div class=\"input-icon\">
+                                <input type=\"hidden\" name=\"position\" value=\"1\">
+                                <input type=\"text\" placeholder=\"Name\" name=\"client_name\" maxlength=\"50\">";
+                           echo    " <i class=\"mdi mdi-\"></i>
+                            </div>
+                            <div class=\"input-icon\">
+                                <input type=\"email\" placeholder=\"Email Address\" name=\"client_email_address\" maxlength=\"50\">
+                                <i class=\"icofont icofont-email\"></i>
+                            </div>
+                            <div class=\"input-icon\">
+                                <input type=\"tel\" placeholder=\"Mobile No\" name=\"client_mobile_number\" maxlength=\"50\">
+                                <i class=\"icofont icofont-mobile-phone\"></i>
+                            </div>";
+                        echo "</div>
+                        <button type=\"submit\" id=\"header_contactform\" class=\"btn btn-common\" name=\"HeaderContactForm\" value=\"Header Contact\">Submit</button>
+                    </form>
                 </div>
+            </div>
         </div>
+    </div>
+</section>
         
         
         <section class=\"material-tabs-section section-padding\">
@@ -39,7 +98,9 @@ echo "<div id=\"main-slide2\" class=\"carousel slide\" data-ride=\"carousel\">
 
 
 <div class=\"col-md-8\">
-<p>The private limited company registration process is completely online, so you don't even need to leave your home to get your entity registered within 14 working days. At Vakilsearch, we are continuously available to help you understand how to register a private limited company. Company Registration in India can be done through VakilSearch in all major cities, including Hyderabad, Mumbai, and New Delhi, Chennai, Kolkata & all other Indian cities.</p>
+
+<p style='text-align: justify;'>The private limited company registration process is completely online, so you don't even need to leave your home to get your entity registered within 14 working days. At Vakilsearch, we are continuously available to help you understand how to register a private limited company. Company Registration in India can be done through VakilSearch in all major cities, including Hyderabad, Mumbai, and New Delhi, Chennai, Kolkata & all other Indian cities.</p>
+
 <p>A detailed explanation of the procedure now follows, along with expected timelines and charges involved.</p>
 </div>
 <div class=\"col-md-8\">

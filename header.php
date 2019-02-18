@@ -52,6 +52,8 @@ echo "<!DOCTYPE html>
 <!-- Header Start -->
 <header id=\"header\">
     <nav class=\"navbar navbar-expand-lg fixed-top scrolling-navbar nav-bg\">
+    
+    
         <div class=\"container\">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class=\"navbar-header\">
@@ -68,7 +70,7 @@ echo "<!DOCTYPE html>
 
                     <li class=\"nav-item dropdown\">
                         <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
-                            Start a business
+                            Start a business <i class='mdi mdi-chevron-down'></i>
                         </a>
                         <div class=\"dropdown-menu\">
                             <a class=\"dropdown-item\" href=\"/pages/pvt_ltd.php\">Private Limited Company</a>
@@ -81,7 +83,7 @@ echo "<!DOCTYPE html>
                     </li>
                     <li class=\"nav-item dropdown\">
               <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
-               Annual Compliances
+               Annual Compliances <i class='mdi mdi-chevron-down'></i>
              </a>
               <div class=\"dropdown-menu\">
               <a class=\"dropdown-item\" href=\"/pages/Ac_pvt_ltd.php\">Private Limited Company </a>
@@ -96,7 +98,7 @@ echo "<!DOCTYPE html>
                     </li>
                      <li class=\"nav-item dropdown\">
               <a class=\"nav-link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
-               Web Solutions
+               Web Solutions <i class='mdi mdi-chevron-down'></i>
              </a>
               <div class=\"dropdown-menu\">
               <a class=\"dropdown-item\" href=\"/pages/web_dev.php\">Web Development</a>
@@ -110,6 +112,15 @@ echo "<!DOCTYPE html>
                         </a>
 
                     </li>
+                    
+                    
+                    <li class=\"nav-item dropdown\">
+                        <a class=\"nav-link\" href=\"/#\" >
+                           <i class='mdi mdi-phone-classic'></i> &nbsp; 8984122606
+                        </a>
+
+                    </li>
+                    
                 </ul>
                 <!-- Search Box Start -->
                 <div class=\"search-icon\">

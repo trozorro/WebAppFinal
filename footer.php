@@ -10,7 +10,7 @@
 echo "
 
 
- <section class=\"Material-service-section section-padding\">
+ <section class=\"Material-service-section section-padding\" style='padding-bottom: 2px'>
         <div class=\"container\">
             <div class=\"row\">
                 
@@ -87,23 +87,26 @@ echo "
         <div class=\"row\">
             <!--First column-->
             <div class=\"col-md-6 col-lg-3 col-xl-3 footer-contact-widget\">
-                <h3 class=\"footer-title\">TROZORRO</h3>
-                <p>This a desc</p>
+                <h3 class=\"footer-title\">About</h3>
+                <p>Trozorro Consultancy Services Pvt. Ltd</p>
+                <p>Contact Us : 8890923432 </P>
+                <p>E-Mail : Support@trozorro.in </P>
+                <p> Follow Us On </P>
                 <ul>
                     <li>
-                        <a href=\"#\"><i class=\"mdi mdi-facebook\"></i></a>
+                        <a href=\"https://www.facebook.com/trozorro\"><i class=\"mdi mdi-facebook\"></i></a>
                     </li>
-                    <li>
+                   <!-- <li>
                         <a href=\"#\"><i class=\"mdi mdi-twitter\"></i></a>
-                    </li>
+                    </li> --!>
                     <li>
-                        <a href=\"#\"><i class=\"mdi mdi-instagram\"></i></a>
+                        <a href=\"https://www.instagram.com/trozorro/\"><i class=\"mdi mdi-instagram\"></i></a>
                     </li>
-                    <li>
+                   <!-- <li>
                         <a href=\"#\"><i class=\"mdi mdi-github-circle\"></i></a>
-                    </li>
+                    </li -->
                     <li>
-                        <a href=\"#\"><i class=\"mdi mdi-linkedin\"></i></a>
+                        <a href=\"https://in.linkedin.com/company/trozorro\"><i class=\"mdi mdi-linkedin\"></i></a>
                     </li>
                 </ul>
             </div>
@@ -153,7 +156,7 @@ echo "
         <div class=\"container\">
             <div class=\"row\">
                 <div class=\"col-md-12 text-center\">
-                    <p>&copy; 2019 ".$WebName.", All right reserved. Designed with <a href='#'> <i class=\"mdi mdi-heart\"></i></a> by <a href=\"#\">Technical Team</a></p>
+                    <p>&copy; 2019 , All right reserved by Trozorro Consultancy Services Pvt. Ltd. Designed with <a href='#'> <i class=\"mdi mdi-heart\"></i></a> by <a href=\"#\">Technical Team</a></p>
                    </div>
             </div>
         </div>
